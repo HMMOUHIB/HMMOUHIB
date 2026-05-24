@@ -1,112 +1,215 @@
-## Hi there 👋
+<div align="center">
 
-<!-- ================================================= -->
-<!--        ⚫ GOKU BLACK • AURA DEV PROFILE           -->
-<!-- ================================================= -->
+# ⚡ HAMZAOUI MOATAZ ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;LINUX+ADMINISTRATOR;JAVA+%7C+PHP+%7C+MYSQL;AI+POWERED+WEB+APPLICATIONS;AURA+STORE+CREATOR" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=PROFILE+VIEWS&color=purple&style=for-the-badge)
+
+</div>
+
+---
+
+# 🧑‍💻 WHO AM I ?
+
+```yaml
+Name: Hamzaoui Moataz
+Country: Tunisia
+Role: Computer Science Student
+Passion:
+  - Linux Administration
+  - Full Stack Development
+  - Artificial Intelligence
+  - Database Design
+  - UI / UX Engineering
+
+Current Project:
+  - Aura Store
+  - AI Stylist Assistant
+  - Restaurant Management System
+
+Mission:
+  Building futuristic applications that combine
+  powerful backend systems with premium UI/UX.
+```
+
+---
+
+# ⚔️ ABOUT ME
+
+I am a Computer Science student passionate about creating modern digital experiences.
+
+My journey combines:
+
+🔥 Linux Administration
+
+🔥 Backend Development
+
+🔥 Database Engineering
+
+🔥 Artificial Intelligence
+
+🔥 Premium User Interfaces
+
+I enjoy solving complex technical problems while building scalable systems that look as good as they perform.
+
+Currently focused on:
+
+- PHP & MySQL
+- Java Applications
+- Linux System Administration
+- AI Integrations
+- Modern Web Development
+
+---
+
+# 🚀 TECH STACK
+
+### Front-End
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a7/7f/bf/a77fbfec380b3f63e3feb9a7df60616a.gif" width="100%" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
 </p>
 
-<h1 align="center">
-  ⚫ Hi, I'm <span style="color:#b57cff">Hamzaoui Moh</span>
-</h1>
+### Back-End
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="40" />
-  Full-Stack Developer
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40" />
-  UI Engineer
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40" />
-  Motion Architect
+
+<img src="https://skillicons.dev/icons?i=php,java,python,nodejs"/>
+
 </p>
+
+### Database
 
 <p align="center">
-I don’t just build websites. I engineer systems, experiences, and digital motion.
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
----
-
-## ⚫ ABOUT ME
-
-- 🔭 Working on: **Aura Store / React Portfolio / System Architecture Projects**
-- 🌱 Learning: Advanced **React + GSAP motion systems**
-- ⚙️ Stack: HTML, CSS, JavaScript, PHP, React, Flutter, Firebase
-- 🎯 Focus: UI Engineering + Cinematic Web Experiences
-- 🇹🇳 Based in Tunisia — Remote Ready
-
----
-
-## ⚡ TECH ARSENAL
+### DevOps & Linux
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
-</p>
 
-<p align="center">
-HTML • CSS • JavaScript • React • PHP • Flutter • Firebase • GSAP
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker"/>
+
 </p>
 
 ---
 
-## ⚔️ PROJECT SYSTEMS
+# 📊 CONTRIBUTION GRAPH
 
-### ⚫ Aura_Store — Fashion E-Commerce System  
-- 🛠 PHP | MySQL | React | GSAP  
-- 🧠 Advanced product system + database architecture  
-- 🎯 Focus: Add AI recommendations + motion UI upgrade  
-- 🔗 https://github.com/hamzaoui-moh/aura-store  
+<div align="center">
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=redical)
 
-### ⚫ Java Game Shop System  
-- 🛠 Java + Database Systems  
-- 🧠 OOP architecture + transaction logic  
-- 🎯 Focus: microservices + cloud upgrade  
-- 🔗 https://github.com/hamzaoui-moh/game-shop-system  
+</div>
 
 ---
 
-### ⚫ React Portfolio (GSAP Cinematic UI)  
-- 🛠 React + GSAP  
-- 🧠 cinematic UI motion system  
-- 🎯 Focus: 3D + advanced animation storytelling  
-- 🔗 https://github.com/hamzaoui-moh/react-portfolio  
+# 📈 GITHUB STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=radical"/>
+
+</div>
 
 ---
 
-## 🧿 SYSTEM MINDSET
+# 🏆 ACHIEVEMENTS
 
-> Precision over speed  
-> Systems over features  
-> Architecture over code  
-> Motion over decoration  
+🏅 Linux LVM & Stratis Administration
 
----
+🏅 Full Stack Web Applications
 
-## ⚫ CURRENT FOCUS
+🏅 AI Fashion Assistant Development
 
-- React advanced UI systems  
-- GSAP cinematic animations  
-- Building high-level developer portfolio identity  
+🏅 Java Enterprise Applications
 
----
+🏅 Database Architecture Design
 
-## ⚡ CONTACT
-
-- 🌍 Location: Tunisia  
-- 💼 Portfolio: In progress  
-- 🧠 Status: Open to opportunities  
+🏅 Modern UI/UX Engineering
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" width="250" />
-</p>
+# 🔥 FEATURED PROJECTS
 
-<h3 align="center">
-⚫ Code with precision. Build with aura.
-</h3>
+## 🛍️ AURA STORE
+
+Premium Fashion E-Commerce Platform
+
+Features:
+
+- AI Stylist Assistant
+- Secure Authentication
+- Admin Dashboard
+- Product Management
+- Order Tracking
+
+---
+
+## 🍽️ RESTAURANT MANAGEMENT SYSTEM
+
+Java Application
+
+Features:
+
+- Order Management
+- Stock Management
+- Customer Handling
+- Invoice System
+
+---
+
+## 🐧 LINUX ADMINISTRATION LABS
+
+Advanced Linux Projects
+
+Topics:
+
+- LVM
+- Stratis
+- Storage Management
+- Automation
+- System Recovery
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ AURA STORE ⚡
+
+### "Code. Create. Innovate."
+
+</div>
