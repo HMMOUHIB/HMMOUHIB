@@ -1,88 +1,288 @@
-@@ -1,16 +1,71 @@
-## Hi there 👋
-
-<!--
-**HMMOUHIB/HMMOUHIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- ================================================= -->
-<!--        GOKU BLACK • FRONT-END DEV PROFILE         -->
+<!--     HAMZAOUI MOH • GOKU BLACK AESTHETIC          -->
+<!--     Systems Architect | UI/Motion Engineer        -->
 <!-- ================================================= -->
 
+<div align="center">
+
+# ⬛ HAMZAOUI MOH
+
+### **Systems Architect • UI/Motion Engineer • Full-Stack Developer**
+
+> *"Code is consciousness. Systems reshape reality."*
+
+</div>
+
+---
+
+## 🔱 DIVINE PRESENCE
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a7/7f/bf/a77fbfec380b3f63e3feb9a7df60616a.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="40" alt="Code" /> 
+  <strong>Full-Stack Developer</strong> &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40" alt="Art" /> 
+  <strong>UI/Motion Engineer</strong> &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="40" alt="Design" /> 
+  <strong>System Architect</strong>
 </p>
 
-<h1 align="center" style="font-family: 'Orbitron', sans-serif;">
-  👋 I’m <span style="color:#b57cff">Mouhib</span>
-</h1>
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/14/cc/ef/14ccef1a5384c184766a966eb7d03e68.gif" width="120" alt="Artistic Logo" />
-  <br>
-  <span style="font-family: 'Courier New', monospace; font-size: 40px; color:#ff4f81;">Hi, I'm Hamzaoui Moh</span>
-</h1>
+**📍 Location:** Tunisia | **🟢 Status:** ACTIVE  
+**🔮 Domain:** Full-Stack Architecture + Motion Design  
+**⚡ Mastery:** React | GSAP | PHP | Flutter | Firebase
+
+---
+
+## ⚫ PHILOSOPHY SYSTEM
+
+```
+PRECISION    >    SPEED
+DESIGN       >    CHAOS
+SYSTEM       >    FEATURE
+ARCHITECTURE >    CODE
+ABSTRACTION  >    REPETITION
+MOTION       >    DECORATION
+```
+
+Where code meets consciousness. I don't build features—I architect systems with precision at every layer. Every component speaks the same language of intention.
+
+---
+
+## ⚙️ ENGINEERING ARSENAL
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="40" alt="Laptop GIF" /> 
-  <strong>Developer</strong> &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40" alt="Art GIF" /> 
-  <strong>Artist</strong> &nbsp;&nbsp;
-  <img src="[https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://i.pinimg.com/originals/14/cc/ef/14ccef1a5384c184766a966eb7d03e68.gif)" width="40" alt="Creator GIF" /> 
-  <strong>Creator</strong>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="HTML" /> 
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS" /> 
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="JavaScript" /> 
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React" /> 
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="PHP" /> 
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="Firebase" /> 
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Git" /> 
+</p>
+
+### 🎨 **FRONTEND MASTERY**
+```
+HTML5  •  CSS3  •  JavaScript  •  React  •  GSAP  •  Motion Design
+```
+
+### 🗄️ **BACKEND ARCHITECTURE**
+```
+PHP  •  MySQL  •  Firebase  •  SQLite  •  REST APIs
+```
+
+### 📱 **MOBILE SYSTEMS**
+```
+Flutter  •  Dart  •  Cross-Platform  •  State Management
+```
+
+### 🎬 **MOTION & VISUAL**
+```
+After Effects  •  Premiere Pro  •  Cinematic Animation  •  SVG
+```
+
+---
+
+## 🎯 ENGINEERED SYSTEMS
+
+### ⬛ **AURA_STORE** — Luxury Fashion E-Commerce
+
+**Status:** 🟢 Active Development | **Tier:** Production-Grade
+
+**Architecture:**
+- **Database:** 13-Table Normalized Schema
+- **API:** RESTful System with Advanced Filtering
+- **Frontend:** Dark Luxury Aesthetic + GSAP Animations
+- **Search:** MATCH...AGAINST + LIKE Fallback
+
+**Features:**
+```
+✓ Advanced Product Management
+✓ Real-time Inventory System
+✓ Multi-variant Products
+✓ Cinematic UI Animations
+✓ Dynamic Search & Filtering
+✓ Secure Payment Processing
+```
+
+**Roadmap:**
+```
+→ Analytics Dashboard
+→ Inventory Prediction Engine
+→ Dynamic Pricing System
+→ AI Recommendations
+→ Cinema-grade Motion UI
+```
+
+**Stack:** `PHP` `MySQL` `React` `GSAP` `JavaScript`
+
+🔗 **[View on GitHub](https://github.com/hamzaoui-moh/aura-store)**
+
+---
+
+### ⬛ **JAVA GAME SHOP** — Multi-Tier Architecture
+
+**Status:** 🟢 Active Development | **Tier:** Enterprise-Grade
+
+**Architecture:**
+- **Backend:** Enterprise-Level OOP
+- **Processing:** Real-Time Transactions
+- **Security:** Role-Based Access Control
+- **Design:** Multi-Tier System
+
+**Features:**
+```
+✓ Complex Inventory Management
+✓ Real-Time Transaction Processing
+✓ Secure Payment Handling
+✓ Role-Based Access Control
+✓ Web Integration Layer
+```
+
+**Roadmap:**
+```
+→ Microservices Refactoring
+→ Query Optimization
+→ Cloud Migration
+→ Real-Time Analytics
+→ API Standardization
+```
+
+**Stack:** `Java` `Web Technologies` `Database Architecture`
+
+🔗 **[View on GitHub](https://github.com/hamzaoui-moh/game-shop-system)**
+
+---
+
+### ⬛ **REACT CINEMATIC PORTFOLIO** — Motion Systems
+
+**Status:** 🟢 Active Development | **Tier:** Showcase-Grade
+
+**Architecture:**
+- **Framework:** React Component-Driven Design
+- **Animation:** GSAP Timeline Orchestration (60 FPS)
+- **Aesthetic:** Goku Black Dark Energy System
+- **Performance:** Optimized Motion Architecture
+
+**Features:**
+```
+✓ Dark Aura Energy Aesthetic
+✓ GSAP Timeline Orchestration
+✓ Component-Driven Architecture
+✓ Cinematic Camera Work
+✓ Responsive Motion Systems
+✓ 60 FPS Performance
+```
+
+**Roadmap:**
+```
+→ Three.js 3D Integration
+→ Advanced Gesture Animations
+→ AI Motion Choreography
+→ Performance Monitoring
+→ Full Motion Framework
+```
+
+**Stack:** `React` `GSAP` `CSS3` `Advanced Motion`
+
+🔗 **[View on GitHub](https://github.com/hamzaoui-moh/react-portfolio)**
+
+---
+
+## 📊 ADDITIONAL SYSTEMS
+
+### **Career Management Platform** (HR Dashboard)
+Multi-role organizational system with role-based access control, real-time dashboards, performance tracking.
+
+### **Hotel Management System** (Reservation Engine)
+Complete booking engine with real-time availability, guest lifecycle management, dynamic pricing.
+
+### **Flutter Applications** (Cross-Platform)
+Authentication flows, real-time dashboards, state management, smooth transitions.
+
+---
+
+## 🔥 CURRENT FOCUS
+
+```
+🔭 Building animated React interfaces
+🌱 Mastering advanced UI motion systems
+🎨 Creating portfolio-level cinematic visuals
+🤝 Open for full-stack collaborations
+🚀 Architecting god-tier systems
+```
+
+---
+
+## 📈 GITHUB STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaoui-moh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-I blend creativity with code. From designing visuals to building interactive web experiences, I love turning ideas into something tangible.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaoui-moh&theme=tokyonight&hide_border=true&border_radius=20" alt="Streak Stats" />
 </p>
 
-- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24" alt="Laptop GIF" /> **Tech Stack:** HTML, CSS, JavaScript, React, PHP, Flutter  
-- <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="24" alt="Art GIF" /> **Creative Skills:** UI/UX design, 3D graphics, animations, digital art  
-- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="24" alt="Seedling GIF" /> **Currently learning:** Advanced React animations & creative web effects  
-- <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="24" alt="Envelope GIF" /> **Reach me:** [Your Email or LinkedIn]
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Orbitron
-  &size=26
-  &duration=2600
-  &pause=900
-  &color=B57CFF
-  &center=true
-  &vCenter=true
-  &width=750
-  &lines=Front-End+Developer;React+⚛️+UI%2FUX+Engineer;Motion+Design+with+GSAP+%26+Framer;Anime+Inspired+Clean+Code;Crafting+Immersive+Interfaces" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaoui-moh&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
+## 🧠 SYSTEMS PHILOSOPHY
 
-<p align="center"> <img src="https://i.pinimg.com/originals/93/26/6d/93266d8669bd48f3552c90c0de38949f.gif" width="380" /> </p>
-<h2 align="center" style="color:#b57cff; font-family: 'Orbitron', sans-serif;"> 🛠️ Technologies </h2> <p align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="55" /> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="55" /> </p> <p align="center"> <i>HTML • CSS • JavaScript • React • Git • GitHub • Figma</i> </p>
-🔥 Current Focus
-🔭 Building animated React interfaces
-🌱 Mastering advanced UI motion
-🎨 Creating portfolio-level visuals
-🤝 Open for frontend collaborations
-🚀 Actively seeking junior front-end roles
+### **"A system is alive when every component speaks the same language."**
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HMMOUHIB&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMMOUHIB&theme=tokyonight&hide_border=true&border_radius=20" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HMMOUHIB&theme=tokyo-night&hide_border=true" /> </p>
-📫 Contact & Availability
-💼 Portfolio: Coming Soon
-💬 WhatsApp: +216 92 380 842
-🌍 Location: Tunisia — Remote / Relocation Ready
-🧠 Status: Open to opportunities
+Clean code is not brevity—it is clarity of thought materialized. A system's true elegance is measured not in features but in how effortlessly it handles complexity at scale.
 
-<p align="center"> <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" width="260" /> </p> <h3 align="center"> ⚔️ Code with discipline. Animate with power. </h3> <p align="center"> ⭐ Star my repositories — it fuels my evolution </p> ```
+### **"Motion is communication. Every animation must serve the narrative."**
+
+The difference between functional and divine lies in subtlety. GSAP is not a library—it is a language for teaching interfaces to breathe with intention.
+
+### **"Database design is architecture. A normalized schema is a philosophy made manifest."**
+
+Systems architects solve problems before code exists. Proper design eliminates entire categories of bugs before they're written.
+
+---
+
+## 📞 CONNECT & AVAILABILITY
+
+<p align="center">
+
+| Platform | Contact |
+|----------|---------|
+| **WhatsApp** | +216 92 380 842 |
+| **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| **LinkedIn** | [linkedin.com/in/hamzaoui-moh](https://linkedin.com/in/hamzaoui-moh) |
+| **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+
+</p>
+
+**🌍 Location:** Tunisia — Remote / Relocation Ready  
+**💼 Status:** Open to challenging opportunities  
+**🎯 Seeking:** Full-Stack Projects, Motion Design, System Architecture
+
+---
+
+<div align="center">
+
+### ⚔️ Code with Discipline. Animate with Power.
+
+<p>
+  <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" width="200" alt="Signature" />
+</p>
+
+**⭐ Star my repositories — it fuels my evolution**
+
+---
+
+*Crafting precision since 2019*  
+*Continuous Evolution • Relentless Optimization • Divine Execution*
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaoui-moh&color=FFB800&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hamzaoui-moh?color=FFB800&style=flat-square" alt="Followers" />
+</p>
