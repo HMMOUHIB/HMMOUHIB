@@ -103,7 +103,7 @@ Cross-platform mobile experiences with divine-level transitions.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF2D88&height=80&section=footer&text=Code.%20Create.%20Dominate.&font=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF2D88&height=80&section=footer&text=Code.%20Create.%20Dominate.&font=Orbitron&fontColor=FFFFFF" width="100%"/>
 </div>
 
 **Made with rose-tinted power in Tunisia** • **Built to transcend**
