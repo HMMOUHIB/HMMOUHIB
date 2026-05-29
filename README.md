@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ HAMZAOUI MOATAZ ⚡
+# ⚡ HAMZAOUI MOUHIB ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;LINUX+ADMINISTRATOR;JAVA+%7C+PHP+%7C+MYSQL;AI+POWERED+WEB+APPLICATIONS;AURA+STORE+CREATOR" />
 
