@@ -1,22 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=240&section=header&text=HAMZAOUI%20MOUHIB&font=Orbitron&fontSize=70&fontColor=00FFEA&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=260&section=header&text=HAMZAOUI%20MOUHIB&font=Orbitron&fontSize=72&fontColor=00FFEA&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=800&color=00FFEA&center=true&vCenter=true&width=800&lines=Elite+Full-Stack+Engineer;UI%2FUX+Alchemist;Digital+Experience+Architect;SaaS+Builder+%26+Entrepreneur;Crafting+the+Future+of+the+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&pause=800&color=00FFEA&center=true&vCenter=true&width=820&lines=Elite+Full-Stack+Engineer;UI%2FUX+Alchemist;Digital+Experience+Architect;SaaS+Builder+%26+Entrepreneur;Crafting+the+Future+of+the+Web" />
 </div>
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB">
     <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFEA&labelColor=111111"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hamzaouimoh54@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -28,16 +25,16 @@
 **Mouhib Hamzaoui** — *Information Management Student (Electronic Business)*  
 **Tunis, Tunisia** • 5+ Years Crafting Digital Realities
 
-From pixel-perfect interfaces to scalable backend architectures, I architect immersive web experiences that blend **cyberpunk aesthetics** with **premium luxury minimalism**. Passionate about motion, AI-enhanced interfaces, and building products that feel like they belong in 2035.
+I design and develop immersive digital experiences that combine **cyberpunk aesthetics**, **cinematic motion**, and **premium luxury minimalism**. Turning complex ideas into elegant, high-performance products.
 
 ---
 
 ## 🌀 **CURRENT FOCUS**
-- Building next-gen SaaS products
-- Mastering advanced animations & micro-interactions
-- AI-powered user experiences
-- Flutter & React ecosystem mastery
-- Personal brand as a premium digital craftsman
+- Building next-generation SaaS products  
+- Advanced animations & micro-interactions  
+- AI-enhanced user experiences  
+- React + Flutter ecosystem mastery  
+- Personal brand as a premium digital craftsman  
 
 ---
 
@@ -68,51 +65,50 @@ From pixel-perfect interfaces to scalable backend architectures, I architect imm
 ## 📊 **GITHUB METRICS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00FFEA&text_color=FFFFFF&icon_color=00FFEA" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00FFEA&text_color=FFFFFF" height="180em"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=radical&hide_border=true&background=0A0A0A&stroke=00FFEA&ring=00FFEA&fire=FF2D55&currStreakNum=FFFFFF" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=radical&hide_border=true&bg_color=0A0A0A&color=00FFEA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=CCCCCC&icon_color=00FFEA" height="195em" style="border-radius: 16px;"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=radical&hide_border=true&background=0A0A0A&stroke=00FFEA&ring=00FFEA&fire=FF2D55&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=00FFEA" height="195em" style="border-radius: 16px;"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=radical&hide_border=true&bg_color=0A0A0A&color=00FFEA&line=FF2D55&point=FFFFFF" width="100%" style="border-radius: 16px; margin-top: 12px;"/>
+
 </div>
 
 ---
 
 ## 🔥 **FEATURED PROJECTS**
 
-### **🎮 NEXUS GAME STORE** — *Premium Gaming E-Commerce*
-Next-gen storefront with dynamic 3D product showcases, animated wishlists, and real-time inventory.
+### **🎮 NEXUS GAME STORE**  
+Premium gaming e-commerce platform with dynamic 3D showcases and animated interactions.
 
-### **🏨 LUMINA HOTEL OS** — *Full-Stack Management Platform*
-React + Symfony hotel management system with booking engine, analytics dashboard, and staff portal.
+### **🏨 LUMINA HOTEL OS**  
+Full-stack hotel management system built with React & Symfony.
 
-### **📈 VANGUARD CAREER OS** — *Animated Professional Platform*
-AI-enhanced career management tool with interactive dashboards and motion-rich profile builder.
+### **📈 VANGUARD CAREER OS**  
+AI-powered career management platform with rich animated dashboards.
 
-### **✨ AETHER PORTFOLIOS** — *Collection of Premium Websites*
-Series of high-end animated portfolios and landing pages pushing the boundaries of web motion.
+### **✨ AETHER PORTFOLIOS**  
+Collection of high-end animated portfolio and landing pages.
 
-### **📱 FLUTTER ECOSYSTEM** — *Mobile Applications*
-Cross-platform applications with cinematic transitions and premium UX.
+### **📱 FLUTTER APPLICATIONS**  
+Cross-platform mobile apps with cinematic transitions.
 
 ---
 
 ## 🌌 **ROADMAP 2026**
 
-- **Q3 2026**: Launch first public SaaS product
-- **Q4 2026**: Deep dive into AI Agents & WebGL
-- **2027**: Establish independent digital studio
-- **Ongoing**: Master Three.js & advanced creative coding
+- **Q3 2026**: Launch first public SaaS product  
+- **Q4 2026**: Deep dive into AI Agents & WebGL  
+- **2027**: Establish independent digital studio  
+- **Ongoing**: Master Three.js & advanced creative coding  
 
 ---
 
 ## 💎 **CURRENTLY EXPLORING**
-- Advanced Framer Motion & GSAP orchestration
-- AI integration in frontend experiences
-- 3D web development (Three.js + React Three Fiber)
-- Trading algorithms & fintech interfaces
-- High-performance animation systems
+- Advanced Framer Motion & GSAP orchestration  
+- AI integration in frontend experiences  
+- 3D web development (React Three Fiber)  
+- Trading interfaces & fintech UX  
 
 ---
 
