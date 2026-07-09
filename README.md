@@ -1,19 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+in+Progress" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=HamzaouiMouhib&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
 
 </div>
 
 
 <br>
+
 
 <div align="center">
 
@@ -34,11 +31,12 @@ role:
 specialization:
   Cloud & Infrastructure Engineering
 
-passion:
+focus:
   - Full Stack Development
   - Cloud Computing
-  - Linux Systems
+  - Linux Administration
   - DevOps Engineering
+  - System Architecture
 
 goal:
   Become a Cloud Engineer building scalable solutions
@@ -51,41 +49,43 @@ goal:
 # ⚡ About Me
 
 
-I am a Software Engineering student specializing in **Cloud & Infrastructure Engineering**.
+I am a **Software Engineering Student** specializing in **Cloud & Infrastructure Engineering**.
 
-I build modern web applications using **React.js and Symfony**, while exploring cloud technologies, Linux administration, and DevOps practices.
+I build modern web applications using **React.js and Symfony**, while developing my knowledge in cloud computing, Linux systems, and DevOps practices.
 
-I enjoy transforming ideas into real-world applications with clean architecture, optimized performance, and scalable solutions.
+I enjoy creating clean, scalable, and efficient solutions while continuously improving my engineering skills.
 
 
 ---
 
 
-# 🧠 Tech Stack
+# 🧠 Developer Dashboard
 
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=react,symfony,html,css,js,php,java,python,mysql,linux,aws&perline=6"/>
+| Area | Technologies |
+|---|---|
+| 🎨 Frontend | React.js • HTML5 • CSS3 • JavaScript |
+| ⚙️ Backend | Symfony • PHP • Java • Python |
+| 🗄 Database | MySQL |
+| ☁ Cloud | AWS • Linux |
+| 🔧 Tools | Git • GitHub |
 
 
 </div>
 
 
-<br>
+---
+
+
+# 🛠 Tech Arsenal
 
 
 <div align="center">
 
-
-| 💻 Frontend | ⚙️ Backend | ☁️ Cloud & Systems |
-|---|---|---|
-| React.js | Symfony | AWS |
-| HTML5 | PHP | Linux |
-| CSS3 | Java | Cloud Computing |
-| JavaScript | Python | Infrastructure |
-
+<img src="https://skillicons.dev/icons?i=react,symfony,html,css,js,php,java,python,mysql,linux,aws&perline=6"/>
 
 </div>
 
@@ -100,73 +100,74 @@ I enjoy transforming ideas into real-world applications with clean architecture,
 
 ### Career Management Platform
 
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react">
+
 <img src="https://img.shields.io/badge/Symfony-Backend-black?style=for-the-badge&logo=symfony">
+
 <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
 
 </div>
 
 
-**Description**
-
-Full-stack career management platform developed during my internship experience.
+Full-stack application developed during my internship experience.
 
 
 ✨ Features:
 
 - User authentication
-- Career management
-- Responsive interface
+- Career management system
+- Responsive interfaces
 - Backend business logic
 - Database design
-
 
 
 ---
 
 
-# 🛒 Aura Store
+## 🟪 Aura Store
+
+
+### Full Stack E-Commerce Platform
 
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php">
+
 <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/GSAP-Animations-green?style=for-the-badge">
 
 </div>
 
 
-Full-stack e-commerce platform.
-
-
 ✨ Features:
 
-- Authentication system
+- User accounts
 - Product management
 - Shopping cart
+- Checkout system
 - Admin dashboard
-- Modern animations
-
+- Modern UI animations
 
 
 ---
 
 
-# 🎮 Cyberpunk GameShop
+## 🟥 Cyberpunk GameShop
+
+
+### Modern Gaming Marketplace
 
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Spring_Boot-API-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Spring_Boot-API-green?style=for-the-badge&logo=springboot">
 
 </div>
-
-
-Gaming marketplace application using modern backend architecture.
 
 
 ✨ Features:
@@ -175,7 +176,6 @@ Gaming marketplace application using modern backend architecture.
 - Database integration
 - Product management
 - Clean architecture
-
 
 
 ---
@@ -214,10 +214,10 @@ Cloud Engineer
 <div align="center">
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HamzaouiMouhib&show_icons=true&theme=tokyonight&hide_border=true">
 
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaouiMouhib&theme=tokyonight&hide_border=true">
 
 
 </div>
@@ -228,9 +228,7 @@ Cloud Engineer
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaouiMouhib&theme=tokyo-night&hide_border=true">
 
 </div>
 
@@ -291,11 +289,18 @@ Cloud Engineer
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+
+---
+
+
+<div align="center">
 
 ### 🚀 Building. Learning. Deploying.
-
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300">
-
 
 </div>
