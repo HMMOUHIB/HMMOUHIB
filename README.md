@@ -1,164 +1,217 @@
-# Hi, I'm Mouhib Hamzaoui 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Modern+Applications" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+in+Progress" />
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
-I am a **Software Engineering Student** specializing in **Cloud & Infrastructure Engineering**.
-
-I am passionate about building modern web applications, exploring cloud technologies, and creating scalable solutions using clean architecture and best development practices.
-
-My current goal is to become a **Cloud / DevOps Engineer** while continuing to grow as a Full-Stack Developer.
+</div>
 
 ---
 
-## 👨‍💻 What I Do
+# ⚡ About Me
 
-- 💻 Build Full-Stack Web Applications
-- 🌐 Develop modern frontend interfaces
-- ⚙️ Design backend APIs and business logic
-- 🐧 Manage Linux environments
-- ☁️ Explore Cloud Computing and DevOps practices
-- 🚀 Improve software architecture skills
+```yaml
+name: Mouhib Hamzaoui
+role: Software Engineering Student
+specialization: Cloud & Infrastructure Engineering
+
+current_focus:
+  - Full Stack Development
+  - Cloud Computing
+  - Linux Administration
+  - DevOps Engineering
+  - System Architecture
+
+mission:
+  "Building scalable applications and becoming a Cloud Engineer"
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Developer Dashboard
 
-## Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+| Category | Technologies |
+|---|---|
+| 🎨 Frontend | React.js • JavaScript • HTML5 • CSS3 |
+| ⚙️ Backend | Symfony • PHP • Java • Spring Boot |
+| 🗄 Database | MySQL • MariaDB |
+| ☁ Cloud | AWS • Linux • Docker |
+| 🔧 Tools | Git • GitHub • VS Code |
 
-## Backend
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,symfony,java,spring" />
-</p>
+---
 
-## Database
+# 🛠 Tech Arsenal
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
-</p>
+<div align="center">
 
-## Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=react,js,html,css,php,symfony,java,spring,mysql,linux,docker,aws,git,github,vscode&perline=7"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github" />
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 Career Hive - Career Management Platform
+## 🟦 Career Hive
+### Career Management Platform
 
-Full-Stack Web Application developed during my internship experience.
-
-### Technologies:
 ```
-React.js • Symfony • PHP • MySQL • Git
+Frontend:
+React.js
+
+Backend:
+Symfony + PHP
+
+Database:
+MySQL
 ```
 
-### Features:
-- User authentication
-- Career management system
-- Responsive user interface
-- Backend business logic
-- Database management
-- Modern web architecture
+✨ Features:
+- Authentication system
+- Career management
+- Responsive interface
+- Business logic implementation
+- Database architecture
+
 
 ---
 
-## 🛒 Aura Store - E-commerce Platform
+## 🟪 Aura Store
 
-A complete e-commerce application.
+### Full Stack E-Commerce Platform
 
-### Technologies:
 ```
-HTML • CSS • JavaScript • PHP • MySQL
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+GSAP Animations
 ```
 
-### Features:
-- User registration and authentication
-- Product management
+✨ Features:
+- User accounts
 - Shopping cart
 - Checkout system
 - Admin dashboard
-- Modern animations
+- Modern UI animations
+
 
 ---
 
-## 🎮 Cyberpunk GameShop
+## 🟥 Cyberpunk GameShop
 
-Modern game marketplace application.
+### Modern Gaming Marketplace
 
-### Technologies:
 ```
-Spring Boot • Java • MySQL • REST API
+Spring Boot
+Java
+MySQL
+REST API
 ```
 
-### Features:
-- RESTful backend
-- Database integration
+✨ Features:
+- REST architecture
 - Product management
-- Clean application architecture
-
----
-
-# ☁️ Currently Learning
-
-- AWS Cloud Practitioner
-- Linux System Administration
-- Docker & Containers
-- DevOps Fundamentals
-- Cloud Infrastructure
-- Automation
-- Cloud Security Basics
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-# 📈 My Goals
-
-🎯 Become a professional Cloud Engineer  
-🎯 Build scalable applications  
-🎯 Master DevOps tools and automation  
-🎯 Contribute to open-source projects  
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn:
-YOUR_LINKEDIN_LINK
-
-🌐 Portfolio:
-YOUR_PORTFOLIO_LINK
-
-📧 Email:
-YOUR_EMAIL
+- Backend API
+- Database integration
 
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+# ☁ Cloud Journey
+
+<div align="center">
+
+```
+Linux
+  ↓
+Networking
+  ↓
+Docker
+  ↓
+AWS Cloud
+  ↓
+DevOps Automation
+  ↓
+Cloud Engineer
+```
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Developer Mindset
+
+```
+Create → Learn → Build → Improve → Deploy
+```
+
+I believe in continuous learning, clean code, and building solutions that create real impact.
+
+---
+
+# 📚 Currently Learning
+
+🚀 AWS Cloud Practitioner  
+🐧 Advanced Linux Administration  
+🐳 Docker & Containers  
+⚙️ DevOps Practices  
+🔐 Cloud Security  
+🌐 Infrastructure Automation  
+
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### "Building the future one commit at a time 🚀"
+
+</div>
