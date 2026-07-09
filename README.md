@@ -1,294 +1,238 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,40:12002B,70:6A00FF,100:00D4FF&text=HAMZAOUI%20MOUHIB&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20Software%20Engineering&descAlignY=60&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,40:12002B,70:6A00FF,100:00D4FF&text=HAMZAOUI%20MOUHIB&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cinematic%20UI%20%7C%20Cloud%20%26%20Infrastructure&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;React.js+%7C+Symfony+%7C+PHP+%7C+MySQL;Cloud+%26+Infrastructure+Engineering+Journey;Turning+Ideas+Into+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Cinematic+Web+Experiences+%F0%9F%8E%AC;React+%7C+Symfony+%7C+PHP+%7C+MySQL+%7C+Three.js;Final-Year+Engineer+%40+TEK-UP+University;Turning+Anime+Aesthetics+Into+Interfaces" />
 
 <br>
 
 <a href="mailto:hamzaouimoh54@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
 <img src="https://img.shields.io/badge/LinkedIn-Hamzaoui%20Mouhib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/HamzaouiMouhib">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=HamzaouiMouhib&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS"/>
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
 
----
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00D4FF" width="100%"/>
+**[About](#-about-me)** · **[Tech Stack](#%EF%B8%8F-tech-arsenal)** · **[Projects](#-featured-projects)** · **[Stats](#-github-statistics)** · **[Roadmap](#-current-roadmap)** · **[Contact](#lets-connect-)**
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
 
 # 👨‍💻 About Me
 
 ```yaml
 name: Hamzaoui Mouhib
-role: Full-Stack Developer
-specialization: Cloud & Infrastructure Engineering
-location: Tunisia
+role: Final-Year Software Engineer (ING-3)
+university: TEK-UP University, Tunisia
+specialization: Information Systems & eBusiness
+location: Tunis, Tunisia
+languages: French · English · Tunisian Darija
 
-currently_learning:
-  - Cloud Computing
-  - Linux Administration
-  - DevOps Practices
-  - AI Integration
+currently:
+  - Completed PFE @ MEDIANET Tunisia — built "Career Hire"
+  - Seeking pré-embauche / PFE abroad opportunities
+  - Building certification roadmap: AWS · Azure · CCNA
+  - Preparing IELTS for international mobility
 
-passion:
-  - Web Development
-  - Software Architecture
-  - UI/UX Design
-  - Music & Creative Technologies
+design_philosophy:
+  - Cinematic, dark-luxury interfaces
+  - Anime-inspired visual identity (Bleach, Tokyo Ghoul)
+  - Motion-first UX with GSAP & Three.js
+  - Output that feels like a product, not a template
 ```
 
-I build modern applications focused on **performance, scalability and user experience**.
+I build applications that combine **engineering rigor** with **cinematic design** — clean architecture on the backend, motion-driven storytelling on the frontend.
 
-My development approach combines:
+⚡ Scalable backend systems &nbsp;·&nbsp; 🎬 Motion-first interfaces &nbsp;·&nbsp; 🔐 Secure auth flows &nbsp;·&nbsp; ☁️ Cloud-ready deployments
 
-⚡ Clean architecture  
-🎨 Premium interfaces  
-🔐 Secure backend systems  
-☁️ Cloud-ready solutions  
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8A2BE2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2" width="100%"/>
 
 # 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,flutter"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=symfony,php,java,spring"/>
+**Frontend & Motion**
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,threejs,flutter"/>
 
 <br><br>
 
-### Database
+**Backend**
+<img src="https://skillicons.dev/icons?i=symfony,php,java,spring,python,nodejs"/>
 
+<br><br>
+
+**Database**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 <br><br>
 
-### Cloud & Tools
+**Cloud, DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,git,github,vscode,figma"/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
+<br><br>
+
+**Design & Creative**
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
 </div>
 
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF00AA" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA" width="100%"/>
 
 # 🚀 Featured Projects
 
-
-## 🐝 Career Hive
+## 🐝 Career Hire
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack-Career%20Management%20Platform-6A00FF?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/PFE_Project-Career_Management_Platform-6A00FF?style=for-the-badge"/>
 </div>
 
-A complete career management platform designed to connect professional profiles, skills and opportunities.
+End-of-studies internship project at **MEDIANET Tunisia** — a full career management platform connecting profiles, skills, and opportunities.
 
-### Stack
+**Stack:** `React.js` `Symfony 7` `PHP` `MySQL`
 
-```
-React.js
-Symfony 7
-PHP
-MySQL
-HTML5
-CSS3
-Git
-```
-
-### Highlights
-
-✅ User profile management  
-✅ Career data organization  
-✅ Responsive dashboard  
-✅ Backend business logic  
-✅ Modern frontend architecture  
-
+✅ Profile & skills management &nbsp; ✅ Career data organization &nbsp; ✅ Responsive dashboard &nbsp; ✅ Modern REST-driven architecture
 
 ---
 
+## ⚔️ The Ascension
+
+<div align="center">
+<img src="https://img.shields.io/badge/Cinematic_Portfolio-VOID%2FROS%C3%89_Theme-00D4FF?style=for-the-badge"/>
+</div>
+
+A single-file cinematic portfolio with a dual VOID/ROSÉ theme system — Goku Black inspired.
+
+**Stack:** `Three.js` `GSAP ScrollTrigger` `Lenis Smooth Scroll`
+
+✨ Three.js particle hero &nbsp; ✨ Orbital skills map with SimpleIcons &nbsp; ✨ Buttery smooth scroll physics
+
+---
+
+## 🎭 TOONHUB
+
+<div align="center">
+<img src="https://img.shields.io/badge/React_Component-Tokyo_Ghoul_Inspired-6A00FF?style=for-the-badge"/>
+</div>
+
+An interactive carousel component built around original kagune-archetype SVG figures.
+
+**Stack:** `React` `JSX` `Custom SVG Illustration`
+
+🎨 Hand-built character archetypes &nbsp; 🎨 Smooth carousel interactions &nbsp; 🎨 Anime-driven visual identity
+
+---
 
 ## 🛍️ Aura Store
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/E--Commerce-Fashion%20Platform-00D4FF?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/E--Commerce-Luxury_Fashion_Platform-00D4FF?style=for-the-badge"/>
 </div>
 
-A premium fashion e-commerce platform with modern animations and complete shopping experience.
+A premium full-stack e-commerce platform — 13-table normalized schema, cinematic homepage, admin dashboard.
 
-### Stack
+**Stack:** `PHP` `MySQL` `PDO` `GSAP` `PHPMailer`
 
-```
-HTML5
-CSS3
-JavaScript
-PHP
-MySQL
-GSAP
-```
-
-### Features
-
-✨ Product catalog  
-✨ Authentication system  
-✨ Shopping cart  
-✨ Checkout workflow  
-✨ User profile  
-✨ Admin dashboard  
-✨ Animated UI experience  
-
+🛒 Product catalog & search (MATCH...AGAINST) &nbsp; 🔐 OTP email verification &nbsp; 🤖 Zara-style luxury chatbot UI &nbsp; 📊 Admin dashboard
 
 ---
-
 
 ## 🎮 Game Shop
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-Mobile%20Application-6A00FF?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Cyberpunk_UI-Game_Marketplace-6A00FF?style=for-the-badge"/>
 </div>
 
-A gaming marketplace application focused on smooth user experience and modern mobile design.
+A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
-### Stack
+**Stack:** `Java` `OOP Architecture`
 
-```
-Flutter
-Dart
-Firebase
-REST API
-```
+🎮 Game browsing & listings &nbsp; 🔐 Secure auth flow &nbsp; 🌆 Neon cyberpunk visual identity
 
-### Features
-
-🎮 Game browsing  
-⭐ Product presentation  
-🛒 Shopping experience  
-📱 Mobile-first interface  
-
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00D4FF" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
 
 # 📊 GitHub Statistics
-
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HamzaouiMouhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaouiMouhib&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaouiMouhib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2" width="100%"/>
 
 # 🧭 Current Roadmap
 
 <details>
-
-<summary>🔥 Development Journey</summary>
-
+<summary><b>🔥 Development Journey — click to expand</b></summary>
 <br>
 
-- [x] Full-Stack Web Development
-- [x] React + Symfony Applications
-- [x] Database Design
-- [x] Git Workflow
-- [x] Linux Administration Basics
-
-Currently:
-
-- [ ] AWS Cloud Certifications
-- [ ] DevOps Automation
-- [ ] Kubernetes
-- [ ] Advanced Cloud Infrastructure
+- [x] Full-Stack Web Development (React + Symfony)
+- [x] Cinematic frontend motion (GSAP, Three.js, Lenis)
+- [x] Database design & normalization
+- [x] PFE completed @ MEDIANET Tunisia
+- [ ] IELTS certification
+- [ ] AWS / Azure / CCNA certifications
+- [ ] PFE abroad or pré-embauche placement
+- [ ] DevOps automation & Kubernetes
 
 </details>
 
-
----
-
-# 📂 Repository Philosophy
-
 <details>
-
-<summary>My Development Principles</summary>
-
+<summary><b>📂 Development Principles</b></summary>
 <br>
 
 ```text
-Clean Code
-    +
-Strong Architecture
-    +
-Beautiful Interfaces
-    +
+Clean Architecture
+      +
+Cinematic Interfaces
+      +
 Continuous Learning
-    =
-Better Software
+      =
+Software That Feels Like a Product
 ```
 
 </details>
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=45&fontColor=FFFFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=42&fontColor=FFFFFF"/>
 
 ### Let's Connect 🚀
-
 
 <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
-
 <a href="mailto:hamzaouimoh54@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-hamzaouimoh54%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-
 <br><br>
 
-⭐ **Hamzaoui Mouhib — Full-Stack Developer**
+⭐ **Hamzaoui Mouhib — Full-Stack Developer & Cinematic UI Engineer**
 
 </div>
