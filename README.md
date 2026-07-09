@@ -1,36 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=40&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+In+Progress"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=HAMZAOUI%20MOUHIB&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+In+Progress;Building+The+Future"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Hmazaoui Mouhib&style=for-the-badge&color=9D00FF&label=PROFILE+ENERGY"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/YszSw0XjDbXaM/giphy.gif" width="480"/>
+
+</div>
+
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder.gif" width="450">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2000&pause=600&color=FF0055&center=true&width=900&lines=黒悟空+PROTOCOL+ACTIVATED;Initializing+Developer+Core;Zero+Mortals+Engineering+System"/>
 
 </div>
 
 
-
-# ⚡ SYSTEM PROFILE
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFFF&center=true&width=700&lines=Initializing+Developer+Profile...;Loading+Skills...;Cloud+Engineer+Mode+Activated"/>
-
-
-</div>
-
+# 🖤 ZERO MORTALS DEVELOPER PROFILE
 
 
 <table>
@@ -40,16 +36,30 @@
 <td width="50%">
 
 
-## 🧑‍💻 Identity
+## 🌑 Identity Core
 
 
-```bash
-Name      : Hamzaoui Mouhib
-Role      : Software Engineering Student
-Specialty : Cloud & Infrastructure Engineering
-Focus     : Full Stack + Cloud
-Location  : Tunisia
-Status    : Building & Learning
+```yaml
+Name:
+  Hamzaoui Mouhib
+
+Role:
+  Software Engineering Student
+
+Specialization:
+  Cloud & Infrastructure Engineering
+
+Focus:
+  Full Stack Development
+  Cloud Computing
+  DevOps
+  Linux Systems
+
+Location:
+  Tunisia
+
+Status:
+  Constant Evolution
 ```
 
 
@@ -59,23 +69,26 @@ Status    : Building & Learning
 <td width="50%">
 
 
-## 🚀 Mission
+## ⚡ Mission Protocol
 
 
-```bash
-> Build scalable applications
+```yaml
+Objectives:
 
-> Master Cloud technologies
+01. Build scalable applications
 
-> Automate infrastructures
+02. Master Cloud Architecture
 
-> Become Cloud Engineer
+03. Automate infrastructures
 
-> Create real impact
+04. Design modern systems
+
+05. Become Cloud Engineer
 ```
 
 
 </td>
+
 
 </tr>
 
@@ -86,83 +99,74 @@ Status    : Building & Learning
 ---
 
 
-# 🌌 WHO AM I?
+# 🌌 ABOUT ME
 
 
 <div align="center">
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00FFFF&center=true&width=700&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Modern+Solutions"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=700&color=9D00FF&center=true&width=800&lines=Developer+Mode+Online;Full+Stack+%2B+Cloud+Evolution;Creating+Powerful+Digital+Systems"/>
 
 </div>
 
 
-I am a **Software Engineering Student** specializing in **Cloud & Infrastructure Engineering**.
+I am **Hamzaoui Mouhib**, a Software Engineering Student specialized in **Cloud & Infrastructure Engineering**.
 
-I create modern web applications and explore cloud technologies, Linux systems, and DevOps practices.
+My journey combines software development with system engineering:
 
-My objective is to become a **Cloud Engineer** capable of designing scalable and reliable infrastructures.
-
+⚔ Building modern web applications  
+☁ Exploring cloud architectures  
+🐧 Managing Linux environments  
+⚙ Learning DevOps automation  
+🚀 Creating scalable solutions  
 
 
 ---
 
-
-
-# 🧠 DEVELOPER DASHBOARD
+# 🔮 TECHNOLOGY DIMENSION
 
 
 <div align="center">
 
 
-| Category | Technologies |
-|---|---|
-| 🎨 Frontend | React.js • HTML5 • CSS3 • JavaScript |
-| ⚙️ Backend | Symfony • PHP • Java • Python |
-| 🗄 Database | MySQL |
-| ☁ Cloud | AWS |
-| 🐧 Systems | Linux |
-| 🔧 Tools | Git • GitHub |
+<img src="https://skillicons.dev/icons?i=react,symfony,php,java,python,javascript,html,css,mysql,linux,aws,docker,git&perline=7"/>
 
 
 </div>
 
 
 
----
-
-
-
-# 🛠 TECH ARSENAL
+<br>
 
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=react,symfony,html,css,js,php,java,python,mysql,linux,aws&perline=6"/>
+<img src="https://img.shields.io/badge/FRONTEND-React.js-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/BACKEND-Symfony%20%7C%20PHP-161B22?style=for-the-badge&logo=symfony&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CLOUD-AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-Linux-161B22?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DEVOPS-Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
 
 </div>
 
 
-
 ---
 
 
-
-# 🚀 FEATURED PROJECTS
-
+# ⚔️ PROJECT BATTLE RECORD
 
 
-## 🟦 Career Hive
 
+## 🟣 CAREER HIVE
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/FULL--STACK-PROJECT-00FFFF?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/FULL_STACK_APPLICATION-9D00FF?style=for-the-badge"/>
 
 </div>
 
@@ -170,19 +174,22 @@ My objective is to become a **Cloud Engineer** capable of designing scalable and
 ### Career Management Platform
 
 
-```text
+```
 Frontend:
 React.js
 
 Backend:
-Symfony + PHP
+Symfony 7 + PHP
 
 Database:
 MySQL
+
+Architecture:
+MVC + REST API
 ```
 
 
-✨ Features:
+### Abilities:
 
 ✔ Authentication System
 
@@ -190,102 +197,92 @@ MySQL
 
 ✔ Responsive Interface
 
+✔ Business Logic
+
 ✔ Database Architecture
-
-✔ Business Logic Implementation
-
 
 
 
 ---
 
 
-
-## 🟪 Aura Store
-
+## 🌌 AURA STORE
 
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/E--COMMERCE-PROJECT-purple?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/E--COMMERCE_SYSTEM-FF0055?style=for-the-badge"/>
 
 </div>
 
 
-
-### Full Stack Shopping Platform
-
+### Modern Shopping Experience
 
 
-```text
-HTML
-CSS
+```
+HTML5
+
+CSS3
+
 JavaScript
+
 PHP
+
 MySQL
+
 GSAP
 ```
 
 
+### Abilities:
 
-✨ Features:
+🔥 User Accounts
 
-✔ User Accounts
+🔥 Shopping Cart
 
-✔ Shopping Cart
+🔥 Checkout System
 
-✔ Checkout System
+🔥 Admin Dashboard
 
-✔ Admin Dashboard
-
-✔ Modern Animations
-
+🔥 Animated UI
 
 
 
 ---
 
 
-
-## 🟥 Cyberpunk GameShop
-
+## 🟥 CYBERPUNK GAMESHOP
 
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/JAVA-PROJECT-orange?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/JAVA_SPRING_BOOT_PROJECT-orange?style=for-the-badge"/>
 
 </div>
 
 
-
-### Gaming Marketplace Application
-
-
-
-```text
+```
 Java
+
 Spring Boot
-MySQL
+
 REST API
+
+MySQL
+
+Clean Architecture
 ```
 
 
+### Abilities:
 
-✨ Features:
+⚡ Backend Services
 
-✔ REST Architecture
+⚡ API Development
 
-✔ Backend API
+⚡ Database Integration
 
-✔ Database Integration
-
-✔ Clean Architecture
-
+⚡ Enterprise Structure
 
 
 
@@ -293,34 +290,38 @@ REST API
 
 
 
-# ☁ CLOUD ENGINEER ROADMAP
+# ☁ CLOUD EVOLUTION PATH
 
 
 <div align="center">
 
 
 ```
-Linux Administration
+🐧 Linux Administration
 
-        ↓
+          ↓
 
-Networking Fundamentals
+🌐 Networking
 
-        ↓
+          ↓
 
-Python Automation
+🐍 Python Automation
 
-        ↓
+          ↓
 
-AWS Cloud
+☁ AWS Cloud
 
-        ↓
+          ↓
 
-DevOps Practices
+🐳 Containers
 
-        ↓
+          ↓
 
-Cloud Engineer
+⚙ DevOps
+
+          ↓
+
+🖤 CLOUD ENGINEER
 ```
 
 
@@ -331,52 +332,22 @@ Cloud Engineer
 ---
 
 
-
-# 📊 GITHUB ANALYTICS
-
+# 📊 GITHUB POWER LEVEL
 
 
 <div align="center">
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF00FF&icon_color=9D00FF"/>
 
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=FF00FF&fire=9D00FF"/>
 
 
 <br><br>
 
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true">
-
-
-</div>
-
-
-
-
----
-
-
-
-# 📚 CURRENTLY LEARNING
-
-
-<div align="center">
-
-
-🚀 AWS Cloud Practitioner  
-
-🐧 Advanced Linux Administration  
-
-🐍 Python Automation  
-
-🐳 Docker & Containers  
-
-⚙️ DevOps Engineering  
-
-🔐 Cloud Security  
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
 
 
 </div>
@@ -386,25 +357,44 @@ Cloud Engineer
 ---
 
 
-
-# 🌐 CONNECT WITH ME
-
+# 📚 CURRENT TRAINING ARC
 
 
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/hmazaoui-mouhib/?skipRedirect=true">
+| Domain | Current Evolution |
+|-|-|
+| ☁ Cloud | AWS Cloud Practitioner |
+| 🐧 Linux | Advanced Administration |
+| ⚙ DevOps | Docker & Automation |
+| 🔐 Security | Cloud Security |
+| 🐍 Python | Automation |
 
-<img src="https://img.shields.io/badge/LinkedIn-Hamzaoui_Mouhib-blue?style=for-the-badge&logo=linkedin">
+
+</div>
+
+
+
+---
+
+
+# 🌐 CONNECT
+
+
+<div align="center">
+
+
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-HAMZAOUI%20MOUHIB-9D00FF?style=for-the-badge&logo=linkedin"/>
 
 </a>
-
 
 
 <a href="mailto:hamzaouimoh54@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-FF0055?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -413,15 +403,13 @@ Cloud Engineer
 
 
 
-
 ---
 
 
+# 🐍 CONTRIBUTION ENERGY
+
 
 <div align="center">
-
-
-## 🐍 CONTRIBUTION SNAKE
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -431,15 +419,13 @@ Cloud Engineer
 
 
 
-
 ---
-
 
 
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Build+%7C+Learn+%7C+Deploy+%7C+Improve">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0055&height=120&section=footer&text=CODE%20%E2%80%A2%20EVOLVE%20%E2%80%A2%20TRANSCEND&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 
 </div>
