@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+in+Progress" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=40&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+In+Progress"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HamzaouiMouhib&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -14,174 +14,286 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder.gif" width="450">
 
 </div>
 
 
-# 👨‍💻 Developer Profile
 
-
-```yaml
-name: Hamzaoui Mouhib
-
-role:
-  Software Engineering Student
-
-specialization:
-  Cloud & Infrastructure Engineering
-
-focus:
-  - Full Stack Development
-  - Cloud Computing
-  - Linux Administration
-  - DevOps Engineering
-  - System Architecture
-
-goal:
-  Become a Cloud Engineer building scalable solutions
-```
-
-
----
-
-
-# ⚡ About Me
-
-
-I am a **Software Engineering Student** specializing in **Cloud & Infrastructure Engineering**.
-
-I build modern web applications using **React.js and Symfony**, while developing my knowledge in cloud computing, Linux systems, and DevOps practices.
-
-I enjoy creating clean, scalable, and efficient solutions while continuously improving my engineering skills.
-
-
----
-
-
-# 🧠 Developer Dashboard
+# ⚡ SYSTEM PROFILE
 
 
 <div align="center">
 
 
-| Area | Technologies |
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFFF&center=true&width=700&lines=Initializing+Developer+Profile...;Loading+Skills...;Cloud+Engineer+Mode+Activated"/>
+
+
+</div>
+
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🧑‍💻 Identity
+
+
+```bash
+Name      : Hamzaoui Mouhib
+Role      : Software Engineering Student
+Specialty : Cloud & Infrastructure Engineering
+Focus     : Full Stack + Cloud
+Location  : Tunisia
+Status    : Building & Learning
+```
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 🚀 Mission
+
+
+```bash
+> Build scalable applications
+
+> Master Cloud technologies
+
+> Automate infrastructures
+
+> Become Cloud Engineer
+
+> Create real impact
+```
+
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+---
+
+
+# 🌌 WHO AM I?
+
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00FFFF&center=true&width=700&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Modern+Solutions"/>
+
+
+</div>
+
+
+I am a **Software Engineering Student** specializing in **Cloud & Infrastructure Engineering**.
+
+I create modern web applications and explore cloud technologies, Linux systems, and DevOps practices.
+
+My objective is to become a **Cloud Engineer** capable of designing scalable and reliable infrastructures.
+
+
+
+---
+
+
+
+# 🧠 DEVELOPER DASHBOARD
+
+
+<div align="center">
+
+
+| Category | Technologies |
 |---|---|
 | 🎨 Frontend | React.js • HTML5 • CSS3 • JavaScript |
 | ⚙️ Backend | Symfony • PHP • Java • Python |
 | 🗄 Database | MySQL |
-| ☁ Cloud | AWS • Linux |
+| ☁ Cloud | AWS |
+| 🐧 Systems | Linux |
 | 🔧 Tools | Git • GitHub |
 
 
 </div>
 
 
+
 ---
 
 
-# 🛠 Tech Arsenal
+
+# 🛠 TECH ARSENAL
 
 
 <div align="center">
 
+
 <img src="https://skillicons.dev/icons?i=react,symfony,html,css,js,php,java,python,mysql,linux,aws&perline=6"/>
 
+
 </div>
+
 
 
 ---
 
 
-# 🚀 Featured Projects
+
+# 🚀 FEATURED PROJECTS
+
 
 
 ## 🟦 Career Hive
 
-### Career Management Platform
-
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react">
 
-<img src="https://img.shields.io/badge/Symfony-Backend-black?style=for-the-badge&logo=symfony">
+<img src="https://img.shields.io/badge/FULL--STACK-PROJECT-00FFFF?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
 
 </div>
 
 
-Full-stack application developed during my internship experience.
+### Career Management Platform
+
+
+```text
+Frontend:
+React.js
+
+Backend:
+Symfony + PHP
+
+Database:
+MySQL
+```
 
 
 ✨ Features:
 
-- User authentication
-- Career management system
-- Responsive interfaces
-- Backend business logic
-- Database design
+✔ Authentication System
+
+✔ Career Management
+
+✔ Responsive Interface
+
+✔ Database Architecture
+
+✔ Business Logic Implementation
+
+
 
 
 ---
+
 
 
 ## 🟪 Aura Store
 
 
-### Full Stack E-Commerce Platform
-
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php">
 
-<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/E--COMMERCE-PROJECT-purple?style=for-the-badge">
+
 
 </div>
 
 
+
+### Full Stack Shopping Platform
+
+
+
+```text
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+GSAP
+```
+
+
+
 ✨ Features:
 
-- User accounts
-- Product management
-- Shopping cart
-- Checkout system
-- Admin dashboard
-- Modern UI animations
+✔ User Accounts
+
+✔ Shopping Cart
+
+✔ Checkout System
+
+✔ Admin Dashboard
+
+✔ Modern Animations
+
+
 
 
 ---
+
 
 
 ## 🟥 Cyberpunk GameShop
 
 
-### Modern Gaming Marketplace
-
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java">
 
-<img src="https://img.shields.io/badge/Spring_Boot-API-green?style=for-the-badge&logo=springboot">
+<img src="https://img.shields.io/badge/JAVA-PROJECT-orange?style=for-the-badge">
+
 
 </div>
 
 
+
+### Gaming Marketplace Application
+
+
+
+```text
+Java
+Spring Boot
+MySQL
+REST API
+```
+
+
+
 ✨ Features:
 
-- REST API
-- Database integration
-- Product management
-- Clean architecture
+✔ REST Architecture
+
+✔ Backend API
+
+✔ Database Integration
+
+✔ Clean Architecture
+
+
 
 
 ---
 
 
-# ☁ Cloud Engineer Journey
+
+# ☁ CLOUD ENGINEER ROADMAP
 
 
 <div align="center">
@@ -189,15 +301,25 @@ Full-stack application developed during my internship experience.
 
 ```
 Linux Administration
-          ↓
+
+        ↓
+
 Networking Fundamentals
-          ↓
+
+        ↓
+
 Python Automation
-          ↓
+
+        ↓
+
 AWS Cloud
-          ↓
+
+        ↓
+
 DevOps Practices
-          ↓
+
+        ↓
+
 Cloud Engineer
 ```
 
@@ -205,38 +327,40 @@ Cloud Engineer
 </div>
 
 
+
 ---
 
 
-# 📊 GitHub Analytics
+
+# 📊 GITHUB ANALYTICS
+
 
 
 <div align="center">
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HamzaouiMouhib&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF">
 
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaouiMouhib&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF">
+
+
+<br><br>
+
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true">
 
 
 </div>
 
 
-<br>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaouiMouhib&theme=tokyo-night&hide_border=true">
-
-</div>
 
 
 ---
 
 
-# 📚 Currently Learning
+
+# 📚 CURRENTLY LEARNING
 
 
 <div align="center">
@@ -258,10 +382,13 @@ Cloud Engineer
 </div>
 
 
+
 ---
 
 
-# 🌐 Connect With Me
+
+# 🌐 CONNECT WITH ME
+
 
 
 <div align="center">
@@ -274,9 +401,10 @@ Cloud Engineer
 </a>
 
 
+
 <a href="mailto:hamzaouimoh54@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-hamzaouimoh54%40gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 
 </a>
 
@@ -284,23 +412,34 @@ Cloud Engineer
 </div>
 
 
+
+
 ---
+
 
 
 <div align="center">
 
-## 🐍 Contribution Snake
+
+## 🐍 CONTRIBUTION SNAKE
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 
 </div>
 
 
+
+
 ---
+
 
 
 <div align="center">
 
-### 🚀 Building. Learning. Deploying.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Build+%7C+Learn+%7C+Deploy+%7C+Improve">
+
 
 </div>
