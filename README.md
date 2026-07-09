@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=48&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hamzaoui+Mouhib&repeat=false" />
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzdWExaHd0MThhOGNueTljZHBlN3IwY241d3NhYnA2eTB3aHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="30%" display="block"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzdWExaHd0MThhOGNueTljZHBlN3IwY241d3NhYnA2eTB3aHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="40%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Cinematic+Web+Experiences+%F0%9F%8E%AC;React+%7C+Symfony+%7C+PHP+%7C+MySQL+%7C+Three.js;Final-Year+Engineer+%40+TEK-UP+University;Turning+Anime+Aesthetics+Into+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Cinematic+Web+Experiences+%F0%9F%8E%AC;React+%7C+Symfony+%7C+PHP+%7C+MySQL+%7C+Three.js;First-Year+Engineering+Student+%40+TEK-UP;Turning+Anime+Aesthetics+Into+Interfaces" />
 
 <br>
 
@@ -43,15 +43,14 @@
 
 ```yaml
 name: Hamzaoui Mouhib
-role: Final-Year Software Engineer (ING-3)
+role: First-Year Engineering Student
 university: TEK-UP University, Tunisia
 specialization: Information Systems & eBusiness
 location: Tunis, Tunisia
 languages: French · English · Tunisian Darija
 
 currently:
-  - Completed PFE @ MEDIANET Tunisia — built "Career Hire"
-  - Seeking pré-embauche / PFE abroad opportunities
+  - Building foundational engineering & software skills @ TEK-UP
   - Building certification roadmap: AWS · Azure · CCNA
   - Preparing IELTS for international mobility
 
@@ -113,42 +112,14 @@ I build applications that combine **engineering rigor** with **cinematic design*
 ## 🐝 Career Hive
 
 <div align="center">
-<img src="https://img.shields.io/badge/PFE_Project-Gestion_de_Carri%C3%A8re-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Academic_Project-Gestion_de_Carri%C3%A8re-6A00FF?style=for-the-badge"/>
 </div>
 
-End-of-studies internship project at **MEDIANET Tunisia** — a career management ("gestion de carrière") platform connecting profiles, skills, and opportunities.
+A career management ("gestion de carrière") platform connecting profiles, skills, and opportunities.
 
 **Stack:** `React.js` `Symfony` `MySQL`
 
 ✅ Profile & skills management &nbsp; ✅ Career data organization &nbsp; ✅ Responsive dashboard &nbsp; ✅ Modern REST-driven architecture
-
----
-
-## ⚔️ The Ascension
-
-<div align="center">
-<img src="https://img.shields.io/badge/Cinematic_Portfolio-VOID%2FROS%C3%89_Theme-00D4FF?style=for-the-badge"/>
-</div>
-
-A single-file cinematic portfolio with a dual VOID/ROSÉ theme system — Goku Black inspired.
-
-**Stack:** `Three.js` `GSAP ScrollTrigger` `Lenis Smooth Scroll`
-
-✨ Three.js particle hero &nbsp; ✨ Orbital skills map with SimpleIcons &nbsp; ✨ Buttery smooth scroll physics
-
----
-
-## 🎭 TOONHUB
-
-<div align="center">
-<img src="https://img.shields.io/badge/React_Component-Tokyo_Ghoul_Inspired-6A00FF?style=for-the-badge"/>
-</div>
-
-An interactive carousel component built around original kagune-archetype SVG figures.
-
-**Stack:** `React` `JSX` `Custom SVG Illustration`
-
-🎨 Hand-built character archetypes &nbsp; 🎨 Smooth carousel interactions &nbsp; 🎨 Anime-driven visual identity
 
 ---
 
@@ -166,7 +137,21 @@ A premium full-stack e-commerce platform with a cinematic homepage and admin das
 
 ---
 
-## 🎮 Game Shop
+## 🎬 Personal Portfolio
+
+<div align="center">
+<img src="https://img.shields.io/badge/Cinematic_Site-Anime_Inspired_Identity-FF00AA?style=for-the-badge"/>
+</div>
+
+A cinematic personal portfolio with an anime-driven visual identity (Bleach / Tokyo Ghoul / Goku Black inspired) — motion-first storytelling from hero to footer.
+
+**Stack:** `React` `Three.js` `GSAP ScrollTrigger` `Lenis Smooth Scroll`
+
+✨ Three.js particle hero &nbsp; ✨ Orbital skills map &nbsp; ✨ Scramble-text & parallax effects &nbsp; ✨ Custom SVG character illustration
+
+---
+
+## 🎮 Gameshop
 
 <div align="center">
 <img src="https://img.shields.io/badge/Cyberpunk_UI-Game_Marketplace-6A00FF?style=for-the-badge"/>
@@ -209,10 +194,8 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 - [x] Full-Stack Web Development (React + Symfony)
 - [x] Cinematic frontend motion (GSAP, Three.js, Lenis)
 - [x] Database design & normalization
-- [x] PFE completed @ MEDIANET Tunisia
 - [ ] IELTS certification
 - [ ] AWS / Azure / CCNA certifications
-- [ ] PFE abroad or pré-embauche placement
 - [ ] DevOps automation & Kubernetes
 
 </details>
