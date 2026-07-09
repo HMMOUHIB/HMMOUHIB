@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzdWExaHd0MThhOGNueTljZHBlN3IwY241d3NhYnA2eTB3aHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="30%"/>
+# Hamzaoui Mouhib
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,40:12002B,70:6A00FF,100:00D4FF&text=HAMZAOUI%20MOUHIB&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cinematic%20UI%20%7C%20Cloud%20%26%20Infrastructure&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
@@ -14,13 +16,13 @@
 <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
 <img src="https://img.shields.io/badge/LinkedIn-Hamzaoui%20Mouhib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/HamzaouiMouhib">
+<a href="https://github.com/HMMOUHIB">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HamzaouiMouhib&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=HMMOUHIB&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -99,15 +101,15 @@ I build applications that combine **engineering rigor** with **cinematic design*
 
 # 🚀 Featured Projects
 
-## 🐝 Career Hire
+## 🐝 Career Hive
 
 <div align="center">
-<img src="https://img.shields.io/badge/PFE_Project-Career_Management_Platform-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PFE_Project-Gestion_de_Carri%C3%A8re-6A00FF?style=for-the-badge"/>
 </div>
 
-End-of-studies internship project at **MEDIANET Tunisia** — a full career management platform connecting profiles, skills, and opportunities.
+End-of-studies internship project at **MEDIANET Tunisia** — a career management ("gestion de carrière") platform connecting profiles, skills, and opportunities.
 
-**Stack:** `React.js` `Symfony 7` `PHP` `MySQL`
+**Stack:** `React.js` `Symfony` `MySQL`
 
 ✅ Profile & skills management &nbsp; ✅ Career data organization &nbsp; ✅ Responsive dashboard &nbsp; ✅ Modern REST-driven architecture
 
@@ -147,11 +149,11 @@ An interactive carousel component built around original kagune-archetype SVG fig
 <img src="https://img.shields.io/badge/E--Commerce-Luxury_Fashion_Platform-00D4FF?style=for-the-badge"/>
 </div>
 
-A premium full-stack e-commerce platform — 13-table normalized schema, cinematic homepage, admin dashboard.
+A premium full-stack e-commerce platform with a cinematic homepage and admin dashboard.
 
-**Stack:** `PHP` `MySQL` `PDO` `GSAP` `PHPMailer`
+**Stack:** `PHP` `JavaScript` `HTML` `CSS`
 
-🛒 Product catalog & search (MATCH...AGAINST) &nbsp; 🔐 OTP email verification &nbsp; 🤖 Zara-style luxury chatbot UI &nbsp; 📊 Admin dashboard
+🛒 Product catalog & search &nbsp; 🔐 Auth & email verification &nbsp; 🤖 Zara-style luxury chatbot UI &nbsp; 📊 Admin dashboard
 
 ---
 
@@ -163,7 +165,7 @@ A premium full-stack e-commerce platform — 13-table normalized schema, cinemat
 
 A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
-**Stack:** `Java` `OOP Architecture`
+**Stack:** `Java`
 
 🎮 Game browsing & listings &nbsp; 🔐 Secure auth flow &nbsp; 🌆 Neon cyberpunk visual identity
 
@@ -173,11 +175,11 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaouiMouhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HMMOUHIB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaouiMouhib&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HMMOUHIB&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaouiMouhib&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMMOUHIB&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
