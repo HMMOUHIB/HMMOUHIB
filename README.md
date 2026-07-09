@@ -1,474 +1,294 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D001A&text=HAMZAOUI%20MOUHIB&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,40:12002B,70:6A00FF,100:00D4FF&text=HAMZAOUI%20MOUHIB&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20Software%20Engineering&descAlignY=60&descSize=22" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&duration=2500&pause=800&color=9D00FF&center=true&vCenter=true&width=1000&lines=SOFTWARE+ENGINEERING+STUDENT;FULL+STACK+DEVELOPER;CLOUD+ENGINEER+IN+PROGRESS;LINUX+%7C+DEVOPS+%7C+AUTOMATION;BUILDING+THE+FUTURE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;React.js+%7C+Symfony+%7C+PHP+%7C+MySQL;Cloud+%26+Infrastructure+Engineering+Journey;Turning+Ideas+Into+Digital+Experiences" />
+
+<br>
+
+<a href="mailto:hamzaouimoh54@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
+<img src="https://img.shields.io/badge/LinkedIn-Hamzaoui%20Mouhib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HamzaouiMouhib">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00D4FF" width="100%"/>
+
+
+# 👨‍💻 About Me
+
+```yaml
+name: Hamzaoui Mouhib
+role: Full-Stack Developer
+specialization: Cloud & Infrastructure Engineering
+location: Tunisia
+
+currently_learning:
+  - Cloud Computing
+  - Linux Administration
+  - DevOps Practices
+  - AI Integration
+
+passion:
+  - Web Development
+  - Software Architecture
+  - UI/UX Design
+  - Music & Creative Technologies
+```
+
+I build modern applications focused on **performance, scalability and user experience**.
+
+My development approach combines:
+
+⚡ Clean architecture  
+🎨 Premium interfaces  
+🔐 Secure backend systems  
+☁️ Cloud-ready solutions  
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8A2BE2" width="100%"/>
+
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,flutter"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=9D00FF&label=SYSTEM+VISITS"/>
+### Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=symfony,php,java,spring"/>
 
+<br><br>
 
-<br>
+### Database
 
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-<div align="center">
+<br><br>
 
-```
-╔══════════════════════════════════════╗
-        🖤 SYSTEM INITIALIZED
-        USER : HAMZAOUI MOUHIB
-        STATUS : ENGINEERING MODE
-        DOMAIN : CLOUD INFRASTRUCTURE
-╚══════════════════════════════════════╝
-```
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
 
 </div>
 
 
 ---
 
-# 🩸 IDENTITY CORE
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF00AA" width="100%"/>
 
 
-<table>
-<tr>
-
-<td width="50%">
+# 🚀 Featured Projects
 
 
-### 🖤 DEVELOPER PROFILE
+## 🐝 Career Hive
 
+<div align="center">
 
-```yaml
-Name:
-  Hamzaoui Mouhib
+<img src="https://img.shields.io/badge/Full--Stack-Career%20Management%20Platform-6A00FF?style=for-the-badge"/>
 
-Role:
-  Software Engineering Student
+</div>
 
-University:
-  Tek-Up University
+A complete career management platform designed to connect professional profiles, skills and opportunities.
 
-Specialization:
-  Cloud & Infrastructure Engineering
+### Stack
 
-Location:
-  Tunisia
-
-Current Mission:
-  Become Cloud / DevOps Engineer
+```
+React.js
+Symfony 7
+PHP
+MySQL
+HTML5
+CSS3
+Git
 ```
 
+### Highlights
 
-</td>
-
-
-<td width="50%">
-
-
-### ⚡ SYSTEM OBJECTIVES
-
-
-```yaml
-Evolution:
-
-[01]
-Master Cloud Architecture
-
-[02]
-Automate Infrastructure
-
-[03]
-Build Scalable Systems
-
-[04]
-Improve Reliability
-
-[05]
-Engineer Production Solutions
-```
-
-
-</td>
-
-
-</tr>
-</table>
-
+✅ User profile management  
+✅ Career data organization  
+✅ Responsive dashboard  
+✅ Backend business logic  
+✅ Modern frontend architecture  
 
 
 ---
 
-# 🌌 ABOUT ME
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2200&pause=600&color=FF0055&center=true&width=900&lines=FULL+STACK+DEVELOPER;LINUX+ENTHUSIAST;CLOUD+ARCHITECTURE+EXPLORER;DEVOPS+JOURNEY+ACTIVE"/>
-
-</div>
-
-
-I am **Hamzaoui Mouhib**, a Software Engineering Student focused on building modern applications and evolving toward **Cloud Infrastructure Engineering**.
-
-My engineering universe combines:
-
-
-```
-⚔ Full Stack Development
-☁ Cloud Computing
-🐧 Linux Administration
-⚙ DevOps Automation
-🔐 Secure Infrastructure
-🚀 Scalable Architecture
-```
-
-
-My objective:
-
-> Transform ideas into reliable, automated and scalable systems.
-
-
----
-
-# ⚔ PROFESSIONAL EXPERIENCE
-
-
-## 🏢 Full Stack Developer Intern
-
+## 🛍️ Aura Store
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MEDIANET-TUNISIA-9D00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E--Commerce-Fashion%20Platform-00D4FF?style=for-the-badge"/>
 
 </div>
 
+A premium fashion e-commerce platform with modern animations and complete shopping experience.
 
-## 🚀 Career Hive — Career Management Platform
-
-
-```yaml
-Position:
-  Full Stack Developer Intern
-
-
-Architecture:
-
-Frontend:
-  React.js
-
-Backend:
-  Symfony 7
-  PHP
-
-Database:
-  MySQL
-
-Tools:
-  Git
-  MVC
-  REST Concepts
-```
-
-
-### Achievements
-
+### Stack
 
 ```
-✔ Created responsive interfaces
-
-✔ Developed backend features
-
-✔ Designed database structures
-
-✔ Implemented application logic
-
-✔ Worked with modern web architecture
-```
-
-
-
----
-
-# 🛸 TECHNOLOGY MATRIX
-
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=react,symfony,php,java,spring,python,javascript,html,css,mysql,linux,docker,aws,git,github&perline=8"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-```
-╭──────────────────────────────╮
-        CURRENT POWER LEVEL
-╰──────────────────────────────╯
-
-Frontend     █████████░ 90%
-
-Backend      ████████░░ 80%
-
-Linux        ███████░░░ 70%
-
-Cloud        ██████░░░░ 60%
-
-DevOps       ██████░░░░ 60%
-```
-
-
-</div>
-
-
-
----
-
-# 🚀 PROJECT DIMENSION
-
-
-
-<table>
-
-
-<tr>
-
-<td>
-
-
-## 🖤 Aura Store
-
-
-Fashion E-Commerce Platform
-
-
-```
-Stack:
-
-HTML
-CSS
+HTML5
+CSS3
 JavaScript
 PHP
 MySQL
 GSAP
-
-
-Features:
-
-✓ Authentication
-
-✓ Cart System
-
-✓ Checkout
-
-✓ Admin Dashboard
 ```
 
-</td>
+### Features
 
-
-
-<td>
-
-
-## 🤖 AI Chatbot UI
-
-
-Interactive Assistant Interface
-
-
-```
-Stack:
-
-React.js
-FastAPI
-
-
-Features:
-
-✓ Floating Chat
-
-✓ API Communication
-
-✓ Modern UI
-```
-
-</td>
-
-
-</tr>
-
-
-
-<tr>
-
-
-<td>
-
-
-## 🎮 GameShop
-
-
-Cyberpunk Gaming Platform
-
-
-```
-Stack:
-
-Spring Boot
-Java
-MySQL
-
-
-Features:
-
-✓ REST API
-
-✓ Database Management
-
-✓ Modern Interface
-```
-
-</td>
-
-
-<td>
-
-
-## ☁ Cloud Journey
-
-
-Infrastructure Lab
-
-
-```
-Learning:
-
-Linux
-
-AWS
-
-Docker
-
-Networking
-
-Virtualization
-
-Automation
-```
-
-</td>
-
-
-</tr>
-
-
-</table>
-
+✨ Product catalog  
+✨ Authentication system  
+✨ Shopping cart  
+✨ Checkout workflow  
+✨ User profile  
+✨ Admin dashboard  
+✨ Animated UI experience  
 
 
 ---
 
-# 🩸 SYSTEM ANALYTICS
+
+## 🎮 Game Shop
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Application-6A00FF?style=for-the-badge"/>
+
+</div>
+
+A gaming marketplace application focused on smooth user experience and modern mobile design.
+
+### Stack
+
+```
+Flutter
+Dart
+Firebase
+REST API
+```
+
+### Features
+
+🎮 Game browsing  
+⭐ Product presentation  
+🛒 Shopping experience  
+📱 Mobile-first interface  
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00D4FF" width="100%"/>
+
+
+# 📊 GitHub Statistics
 
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hmazaoui Mouhib&show_icons=true&hide_border=true&bg_color=090909&title_color=9D00FF&icon_color=FF0055&text_color=FFFFFF"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaouiMouhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <br><br>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=090909&ring=9D00FF&fire=FF0055&currStreakLabel=FFFFFF"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaouiMouhib&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
+---
+
+# 🧭 Current Roadmap
+
+<details>
+
+<summary>🔥 Development Journey</summary>
+
+<br>
+
+- [x] Full-Stack Web Development
+- [x] React + Symfony Applications
+- [x] Database Design
+- [x] Git Workflow
+- [x] Linux Administration Basics
+
+Currently:
+
+- [ ] AWS Cloud Certifications
+- [ ] DevOps Automation
+- [ ] Kubernetes
+- [ ] Advanced Cloud Infrastructure
+
+</details>
+
 
 ---
 
+# 📂 Repository Philosophy
 
-# 🐉 CONTRIBUTION MATRIX
+<details>
 
+<summary>My Development Principles</summary>
 
-<div align="center">
+<br>
 
+```text
+Clean Code
+    +
+Strong Architecture
+    +
+Beautiful Interfaces
+    +
+Continuous Learning
+    =
+Better Software
+```
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
-
-</div>
-
+</details>
 
 
 ---
 
-
-# 🌐 CONNECT WITH THE SYSTEM
-
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=45&fontColor=FFFFFF"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
 
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
-
-</a>
+### Let's Connect 🚀
 
 
 <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 
 <a href="mailto:hamzaouimoh54@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-hamzaouimoh54%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-
-</div>
-
 
 
 <br><br>
 
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=700&color=9D00FF&center=true&width=900&lines=SYSTEM+ONLINE;CODE+IS+POWER;BUILDING+THE+CLOUD+FUTURE"/>
-
-
-<br>
-
-
-## 🖤 "Building systems today. Engineering the cloud tomorrow."
-
-
-<br>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D001A&height=150&section=footer"/>
-
+⭐ **Hamzaoui Mouhib — Full-Stack Developer**
 
 </div>
