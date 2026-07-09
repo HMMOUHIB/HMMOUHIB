@@ -47,7 +47,7 @@ location: Tunis, Tunisia
 languages: French · English · Tunisian Darija
 
 currently:
-  - Completed PFE @ MEDIANET Tunisia — built "Career Hire"
+  - Completed PFE @ MEDIANET Tunisia — built "Career Hive"
   - Seeking pré-embauche / PFE abroad opportunities
   - Building certification roadmap: AWS · Azure · CCNA
   - Preparing IELTS for international mobility
@@ -175,11 +175,11 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HMMOUHIB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HMMOUHIB&theme=github_dark"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HMMOUHIB&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HMMOUHIB&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMMOUHIB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HMMOUHIB&theme=github_dark"/>
 
 </div>
 
@@ -221,6 +221,10 @@ Software That Feels Like a Product
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA" width="100%"/>
 
 <div align="center">
+
+<img src="./goku-chase.svg" width="100%"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=42&fontColor=FFFFFF"/>
 
