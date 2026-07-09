@@ -26,17 +26,20 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-**[About](#-about-me)** · **[Tech Stack](#%EF%B8%8F-tech-arsenal)** · **[Projects](#-featured-projects)** · **[Stats](#-github-statistics)** · **[Roadmap](#-current-roadmap)** · **[Contact](#lets-connect-)**
+**[About](#about-me)** · **[Tech Stack](#tech-arsenal)** · **[Projects](#featured-projects)** · **[Stats](#github-statistics)** · **[Roadmap](#current-roadmap)** · **[Contact](#lets-connect)**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=blink" width="100%"/>
 
-# 👨‍💻 About Me
+<a name="about-me"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A7%AC+About+Me" />
+</div>
 
 ```yaml
 name: Hamzaoui Mouhib
@@ -47,7 +50,7 @@ location: Tunis, Tunisia
 languages: French · English · Tunisian Darija
 
 currently:
-  - Completed PFE @ MEDIANET Tunisia — built "Career Hive"
+  - Completed PFE @ MEDIANET Tunisia — built "Career Hire"
   - Seeking pré-embauche / PFE abroad opportunities
   - Building certification roadmap: AWS · Azure · CCNA
   - Preparing IELTS for international mobility
@@ -63,9 +66,12 @@ I build applications that combine **engineering rigor** with **cinematic design*
 
 ⚡ Scalable backend systems &nbsp;·&nbsp; 🎬 Motion-first interfaces &nbsp;·&nbsp; 🔐 Secure auth flows &nbsp;·&nbsp; ☁️ Cloud-ready deployments
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2&animation=twinkling" width="100%"/>
 
-# 🛠️ Tech Arsenal
+<a name="tech-arsenal"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&height=50&lines=%E2%9A%99%EF%B8%8F+Tech+Arsenal" />
+</div>
 
 <div align="center">
 
@@ -97,9 +103,12 @@ I build applications that combine **engineering rigor** with **cinematic design*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA&animation=fadeIn" width="100%"/>
 
-# 🚀 Featured Projects
+<a name="featured-projects"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF00AA&center=true&vCenter=true&width=460&height=50&lines=%F0%9F%9A%80+Featured+Projects" />
+</div>
 
 ## 🐝 Career Hive
 
@@ -169,9 +178,12 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
 🎮 Game browsing & listings &nbsp; 🔐 Secure auth flow &nbsp; 🌆 Neon cyberpunk visual identity
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=blink" width="100%"/>
 
-# 📊 GitHub Statistics
+<a name="github-statistics"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=460&height=50&lines=%F0%9F%93%A1+GitHub+Statistics" />
+</div>
 
 <div align="center">
 
@@ -183,9 +195,12 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2&animation=twinkling" width="100%"/>
 
-# 🧭 Current Roadmap
+<a name="current-roadmap"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A7%AD+Current+Roadmap" />
+</div>
 
 <details>
 <summary><b>🔥 Development Journey — click to expand</b></summary>
@@ -218,7 +233,7 @@ Software That Feels Like a Product
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -228,7 +243,9 @@ Software That Feels Like a Product
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=42&fontColor=FFFFFF"/>
 
-### Let's Connect 🚀
+<a name="lets-connect"></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=FF00AA&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A4%9D+Let%27s+Connect" />
 
 <a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
