@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=48&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hamzaoui+Mouhib&repeat=false" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,40:12002B,70:6A00FF,100:00D4FF&text=HAMZAOUI%20MOUHIB&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Cinematic%20UI%20%7C%20Cloud%20%26%20Infrastructure&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzdWExaHd0MThhOGNueTljZHBlN3IwY241d3NhYnA2eTB3aHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="30%"/>
 
 <br>
 
