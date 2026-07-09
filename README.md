@@ -1,217 +1,301 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Engineer+in+Progress" />
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=38&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=HAMZAOUI+MOUHIB;Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
 
 </div>
 
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+
+</div>
+
+
+# 👨‍💻 Developer Profile
+
+
+```yaml
+name: Hamzaoui Mouhib
+
+role:
+  Software Engineering Student
+
+specialization:
+  Cloud & Infrastructure Engineering
+
+passion:
+  - Full Stack Development
+  - Cloud Computing
+  - Linux Systems
+  - DevOps Engineering
+
+goal:
+  Become a Cloud Engineer building scalable solutions
+```
+
+
 ---
+
 
 # ⚡ About Me
 
-```yaml
-name: Mouhib Hamzaoui
-role: Software Engineering Student
-specialization: Cloud & Infrastructure Engineering
 
-current_focus:
-  - Full Stack Development
-  - Cloud Computing
-  - Linux Administration
-  - DevOps Engineering
-  - System Architecture
+I am a Software Engineering student specializing in **Cloud & Infrastructure Engineering**.
 
-mission:
-  "Building scalable applications and becoming a Cloud Engineer"
-```
+I build modern web applications using **React.js and Symfony**, while exploring cloud technologies, Linux administration, and DevOps practices.
+
+I enjoy transforming ideas into real-world applications with clean architecture, optimized performance, and scalable solutions.
+
 
 ---
 
-# 🧠 Developer Dashboard
+
+# 🧠 Tech Stack
+
 
 <div align="center">
 
-| Category | Technologies |
-|---|---|
-| 🎨 Frontend | React.js • JavaScript • HTML5 • CSS3 |
-| ⚙️ Backend | Symfony • PHP • Java • Spring Boot |
-| 🗄 Database | MySQL • MariaDB |
-| ☁ Cloud | AWS • Linux • Docker |
-| 🔧 Tools | Git • GitHub • VS Code |
+
+<img src="https://skillicons.dev/icons?i=react,symfony,html,css,js,php,java,python,mysql,linux,aws&perline=6"/>
+
 
 </div>
 
----
-
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,php,symfony,java,spring,mysql,linux,docker,aws,git,github,vscode&perline=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🟦 Career Hive
-### Career Management Platform
-
-```
-Frontend:
-React.js
-
-Backend:
-Symfony + PHP
-
-Database:
-MySQL
-```
-
-✨ Features:
-- Authentication system
-- Career management
-- Responsive interface
-- Business logic implementation
-- Database architecture
-
-
----
-
-## 🟪 Aura Store
-
-### Full Stack E-Commerce Platform
-
-```
-HTML
-CSS
-JavaScript
-PHP
-MySQL
-GSAP Animations
-```
-
-✨ Features:
-- User accounts
-- Shopping cart
-- Checkout system
-- Admin dashboard
-- Modern UI animations
-
-
----
-
-## 🟥 Cyberpunk GameShop
-
-### Modern Gaming Marketplace
-
-```
-Spring Boot
-Java
-MySQL
-REST API
-```
-
-✨ Features:
-- REST architecture
-- Product management
-- Backend API
-- Database integration
-
-
----
-
-# ☁ Cloud Journey
-
-<div align="center">
-
-```
-Linux
-  ↓
-Networking
-  ↓
-Docker
-  ↓
-AWS Cloud
-  ↓
-DevOps Automation
-  ↓
-Cloud Engineer
-```
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+| 💻 Frontend | ⚙️ Backend | ☁️ Cloud & Systems |
+|---|---|---|
+| React.js | Symfony | AWS |
+| HTML5 | PHP | Linux |
+| CSS3 | Java | Cloud Computing |
+| JavaScript | Python | Infrastructure |
+
 
 </div>
 
----
-
-# 🏆 Developer Mindset
-
-```
-Create → Learn → Build → Improve → Deploy
-```
-
-I believe in continuous learning, clean code, and building solutions that create real impact.
 
 ---
+
+
+# 🚀 Featured Projects
+
+
+## 🟦 Career Hive
+
+### Career Management Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Symfony-Backend-black?style=for-the-badge&logo=symfony">
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+
+</div>
+
+
+**Description**
+
+Full-stack career management platform developed during my internship experience.
+
+
+✨ Features:
+
+- User authentication
+- Career management
+- Responsive interface
+- Backend business logic
+- Database design
+
+
+
+---
+
+
+# 🛒 Aura Store
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/GSAP-Animations-green?style=for-the-badge">
+
+</div>
+
+
+Full-stack e-commerce platform.
+
+
+✨ Features:
+
+- Authentication system
+- Product management
+- Shopping cart
+- Admin dashboard
+- Modern animations
+
+
+
+---
+
+
+# 🎮 Cyberpunk GameShop
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/Spring_Boot-API-green?style=for-the-badge">
+
+</div>
+
+
+Gaming marketplace application using modern backend architecture.
+
+
+✨ Features:
+
+- REST API
+- Database integration
+- Product management
+- Clean architecture
+
+
+
+---
+
+
+# ☁ Cloud Engineer Journey
+
+
+<div align="center">
+
+
+```
+Linux Administration
+          ↓
+Networking Fundamentals
+          ↓
+Python Automation
+          ↓
+AWS Cloud
+          ↓
+DevOps Practices
+          ↓
+Cloud Engineer
+```
+
+
+</div>
+
+
+---
+
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
+
+
+</div>
+
+
+---
+
 
 # 📚 Currently Learning
 
-🚀 AWS Cloud Practitioner  
-🐧 Advanced Linux Administration  
-🐳 Docker & Containers  
-⚙️ DevOps Practices  
-🔐 Cloud Security  
-🌐 Infrastructure Automation  
-
-
----
-
-# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome"/>
-</a>
+🚀 AWS Cloud Practitioner  
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+🐧 Advanced Linux Administration  
+
+🐍 Python Automation  
+
+🐳 Docker & Containers  
+
+⚙️ DevOps Engineering  
+
+🔐 Cloud Security  
+
 
 </div>
 
 
 ---
 
+
+# 🌐 Connect With Me
+
+
 <div align="center">
 
-### "Building the future one commit at a time 🚀"
+
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/?skipRedirect=true">
+
+<img src="https://img.shields.io/badge/LinkedIn-Hamzaoui_Mouhib-blue?style=for-the-badge&logo=linkedin">
+
+</a>
+
+
+<a href="mailto:hamzaouimoh54@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-hamzaouimoh54%40gmail.com-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+
+### 🚀 Building. Learning. Deploying.
+
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300">
+
 
 </div>
