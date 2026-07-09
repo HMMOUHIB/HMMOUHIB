@@ -220,7 +220,7 @@ Software That Feels Like a Product
 
 <div align="center">
 
-<img src="./goku-chase.svg" width="100%"/>
+
 
 </div>
 
