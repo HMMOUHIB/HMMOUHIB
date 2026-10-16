@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Mouhib Hamzaoui, Cloud and Full-Stack Engineer"/>
+<img src="assets/banner-cloud.svg" width="100%" alt="Mouhib Hamzaoui, Cloud and Full-Stack Engineer"/>
 
 <a href="https://github.com/HMMOUHIB?tab=repositories"><img src="https://img.shields.io/github/stars/HMMOUHIB?affiliations=OWNER&style=for-the-badge&label=%E2%98%85%20STARS&labelColor=E60012&color=0B0B0B"/></a>
 <a href="https://github.com/HMMOUHIB?tab=followers"><img src="https://img.shields.io/github/followers/HMMOUHIB?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=E60012&color=0B0B0B"/></a>

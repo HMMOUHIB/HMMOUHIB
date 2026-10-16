@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mouhib Hamzaoui, Cloud and Full-Stack Engineer">
-<title>Mouhib Hamzaoui, Frontend Developer</title>
+<title>Mouhib Hamzaoui, Cloud and Full-Stack Engineer</title>
 <defs><style>
   .bob { transform-box: fill-box; transform-origin: center; animation: bob 3.2s ease-in-out infinite; }
   @keyframes bob { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-4px) rotate(1.5deg); } }
