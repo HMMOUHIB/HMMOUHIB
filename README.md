@@ -1,240 +1,150 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=48&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hamzaoui+Mouhib&repeat=false" />
+<img src="assets/hero.svg" width="100%" alt="Mouhib Hamzaoui — Frontend & Full-Stack Developer"/>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzdWExaHd0MThhOGNueTljZHBlN3IwY241d3NhYnA2eTB3aHR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="40%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=760&lines=I+build+React+interfaces+on+Node.js+APIs;CareerHive%3A+live+React+%2B+Express+platform%2C+35+tests;4th-year+engineering+student+%C2%B7+Cloud+%26+Infrastructure;Open+to+remote+junior+frontend+%2F+React+roles" alt="Typing intro"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Cinematic+Web+Experiences+%F0%9F%8E%AC;React+%7C+Symfony+%7C+PHP+%7C+MySQL+%7C+Three.js;First-Year+Engineering+Student+%40+TEK-UP;Turning+Anime+Aesthetics+Into+Interfaces" />
+<a href="https://career-hive-ebon.vercel.app"><img src="https://img.shields.io/badge/Live_project-CareerHive-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=vercel&logoColor=FF4FA3"/></a>
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/"><img src="https://img.shields.io/badge/LinkedIn-Hamzaoui_Mouhib-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=linkedin&logoColor=FF4FA3"/></a>
+<a href="mailto:hamzaouimoh54@gmail.com"><img src="https://img.shields.io/badge/Email-hamzaouimoh54@gmail.com-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=gmail&logoColor=FF4FA3"/></a>
 
-<br>
-
-<a href="mailto:hamzaouimoh54@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
-<img src="https://img.shields.io/badge/LinkedIn-Hamzaoui%20Mouhib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/HMMOUHIB">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HMMOUHIB&style=for-the-badge&color=6A00FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Status-Open_to_remote_frontend_roles-2EA44F?style=flat-square&labelColor=0A0508"/>
+<img src="https://img.shields.io/badge/Based_in-Ariana,_Tunisia_(UTC%2B1)-B9A3AF?style=flat-square&labelColor=0A0508"/>
+<img src="https://komarev.com/ghpvc/?username=HMMOUHIB&style=flat-square&color=FF4FA3&label=Profile+views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=fadeIn" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-<div align="center">
-
-**[About](#about-me)** · **[Tech Stack](#tech-arsenal)** · **[Projects](#featured-projects)** · **[Stats](#github-statistics)** · **[Roadmap](#current-roadmap)** · **[Contact](#lets-connect)**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=blink" width="100%"/>
-
-<a name="about-me"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A7%AC+About+Me" />
-</div>
+## ◆ About me
 
 ```yaml
-name: Hamzaoui Mouhib
-role: First-Year Engineering Student
-university: TEK-UP University, Tunisia
-specialization: Information Systems & eBusiness
-location: Tunis, Tunisia
-languages: French · English · Tunisian Darija
+name:            Mouhib Hamzaoui
+role:            Frontend & Full-Stack Developer
+studies:         4th-year engineering, Cloud & Infrastructure @ TEK-UP University, Tunisia
+previous_degree: Licence in Business Computing (E-Business), ISAAS Sfax
+languages:       English · French · Tunisian Darija
 
-currently:
-  - Building foundational engineering & software skills @ TEK-UP
-  - Building certification roadmap: AWS · Azure · CCNA
-  - Preparing IELTS for international mobility
+experience:
+  - Full-Stack Developer Intern @ Medianet (2025): built the first version of CareerHive
+  - Freelance Web Developer (2024 – present): websites and landing pages for clients
 
-design_philosophy:
-  - Cinematic, dark-luxury interfaces
-  - Anime-inspired visual identity (Bleach, Tokyo Ghoul)
-  - Motion-first UX with GSAP & Three.js
-  - Output that feels like a product, not a template
+looking_for:     Remote junior frontend / React roles
+learning_now:    TypeScript · AWS Cloud Practitioner → Solutions Architect Associate
 ```
 
-I build applications that combine **engineering rigor** with **cinematic design** — clean architecture on the backend, motion-driven storytelling on the frontend.
+I build web apps that are **solid underneath and polished on screen**: clean REST APIs, secure sign-in and tested code on the back end; fast, responsive and motion-aware interfaces on the front end.
 
-⚡ Scalable backend systems &nbsp;·&nbsp; 🎬 Motion-first interfaces &nbsp;·&nbsp; 🔐 Secure auth flows &nbsp;·&nbsp; ☁️ Cloud-ready deployments
+<img src="assets/divider.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2&animation=twinkling" width="100%"/>
-
-<a name="tech-arsenal"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&height=50&lines=%E2%9A%99%EF%B8%8F+Tech+Arsenal" />
-</div>
+## ◆ Tech stack
 
 <div align="center">
 
-**Frontend & Motion**
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,threejs,flutter"/>
+**Frontend & motion**<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind,threejs,flutter&theme=dark"/>
 
-<br><br>
+**Backend & APIs**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,java,spring,python&theme=dark"/>
 
-**Backend**
-<img src="https://skillicons.dev/icons?i=symfony,php,java,spring,python,nodejs"/>
+**Data, cloud & tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,aws,linux,git,github,vercel,vscode,figma&theme=dark"/>
 
-<br><br>
-
-**Database**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<br><br>
-
-**Cloud, DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,git,github,vscode,figma"/>
-
-<br><br>
-
-**Design & Creative**
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+**Design & creative**<br/>
+<img src="https://img.shields.io/badge/GSAP-0A0508?style=for-the-badge&logo=greensock&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0A0508?style=for-the-badge&logo=framer&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/After_Effects-0A0508?style=for-the-badge&logo=adobeaftereffects&logoColor=FF4FA3"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-0A0508?style=for-the-badge&logo=adobepremierepro&logoColor=FF4FA3"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA&animation=fadeIn" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-<a name="featured-projects"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF00AA&center=true&vCenter=true&width=460&height=50&lines=%F0%9F%9A%80+Featured+Projects" />
-</div>
+## ◆ Featured projects
 
-## 🐝 Career Hive
+### 🐝 CareerHive · career-growth platform
 
-<div align="center">
-<img src="https://img.shields.io/badge/Academic_Project-Gestion_de_Carri%C3%A8re-6A00FF?style=for-the-badge"/>
-</div>
+<a href="https://career-hive-ebon.vercel.app"><img src="https://img.shields.io/badge/Live_app-FF4FA3?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/HMMOUHIB/Career_Hive"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
+<a href="https://github.com/HMMOUHIB/Career_Hive/blob/main/presentation/pdf/CareerHive-Project-Book.pdf"><img src="https://img.shields.io/badge/Project_book_(PDF)-0A0508?style=flat-square&logo=readthedocs&logoColor=FF4FA3"/></a>
 
-A career management ("gestion de carrière") platform connecting profiles, skills, and opportunities.
+Employees follow trainings, collect certificates and request promotions; HR reviews each request, then the manager decides. Started during my 2025 internship at Medianet (React + Symfony), then rebuilt end to end on Node.js.
 
-**Stack:** `React.js` `Symfony` `MySQL`
+<a href="https://career-hive-ebon.vercel.app"><img src="https://raw.githubusercontent.com/HMMOUHIB/Career_Hive/main/presentation/assets/screenshots/org-panel.jpg" width="100%" alt="CareerHive organisation dashboard"/></a>
 
-✅ Profile & skills management &nbsp; ✅ Career data organization &nbsp; ✅ Responsive dashboard &nbsp; ✅ Modern REST-driven architecture
+`React 19` `Vite` `Node.js` `Express 5` `MySQL` `Three.js`
+
+- **13 screens · 70 API routes · 23 tables**, with a Context + reducer store that refreshes on server events
+- **Secure accounts:** JWT sessions, Google / LinkedIn / GitHub OAuth, bcrypt, rate-limited sign-in
+- **Live notifications** over Server-Sent Events, with a polling fallback
+- **35 end-to-end API tests**; deployed on Vercel, Render and Aiven MySQL
 
 ---
 
-## 🛍️ Aura Store
+### 🛍️ Aura Store · fashion e-commerce platform
 
-<div align="center">
-<img src="https://img.shields.io/badge/E--Commerce-Luxury_Fashion_Platform-00D4FF?style=for-the-badge"/>
-</div>
+<a href="https://github.com/HMMOUHIB/Aura-Store"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
 
-A premium full-stack e-commerce platform with a cinematic homepage and admin dashboard.
+A full-stack online fashion store with a cinematic homepage, product catalog and search, email-verified sign-up, an admin dashboard and an AI-assisted shopping chatbot.
 
-**Stack:** `PHP` `JavaScript` `HTML` `CSS`
-
-🛒 Product catalog & search &nbsp; 🔐 Auth & email verification &nbsp; 🤖 Zara-style luxury chatbot UI &nbsp; 📊 Admin dashboard
+`PHP` `JavaScript` `MySQL` `HTML` `CSS`
 
 ---
 
-## 🎬 Personal Portfolio
+### 🎬 Personal portfolio · motion-first website
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cinematic_Site-Anime_Inspired_Identity-FF00AA?style=for-the-badge"/>
-</div>
+<a href="https://github.com/HMMOUHIB/HM-PORTFOLIO"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
 
-A cinematic personal portfolio with an anime-driven visual identity (Bleach / Tokyo Ghoul / Goku Black inspired) — motion-first storytelling from hero to footer.
+A cinematic portfolio with a Three.js particle hero, an orbital skills map, scramble-text and parallax effects, told through GSAP ScrollTrigger sections.
 
-**Stack:** `React` `Three.js` `GSAP ScrollTrigger` `Lenis Smooth Scroll`
-
-✨ Three.js particle hero &nbsp; ✨ Orbital skills map &nbsp; ✨ Scramble-text & parallax effects &nbsp; ✨ Custom SVG character illustration
+`React` `Three.js` `GSAP` `Lenis`
 
 ---
 
-## 🎮 Gameshop
+### 🎮 Nexos Game Shop · game marketplace
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cyberpunk_UI-Game_Marketplace-6A00FF?style=for-the-badge"/>
-</div>
+A gaming marketplace with a Spring Boot REST backend and neon cyberpunk sign-in screens.
 
-A gaming marketplace backend with cyberpunk-themed login/signup pages.
+`Java 21` `Spring Boot` `MySQL` `REST API`
 
-**Stack:** `Java`
+<img src="assets/divider.svg" width="100%"/>
 
-🎮 Game browsing & listings &nbsp; 🔐 Secure auth flow &nbsp; 🌆 Neon cyberpunk visual identity
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D4FF&animation=blink" width="100%"/>
-
-<a name="github-statistics"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=460&height=50&lines=%F0%9F%93%A1+GitHub+Statistics" />
-</div>
+## ◆ GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HMMOUHIB&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=HMMOUHIB&background=0A0508&border=3A1A2B&stroke=3A1A2B&ring=FF4FA3&fire=FF4FA3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8FCB&sideLabels=FF8FCB&dates=B9A3AF" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HMMOUHIB&theme=radical" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HMMOUHIB&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HMMOUHIB&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HMMOUHIB&bg_color=0A0508&color=FFB3D9&line=FF4FA3&point=FFFFFF&area=true&area_color=FF4FA3&hide_border=true&title_color=FF4FA3" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A2BE2&animation=twinkling" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-<a name="current-roadmap"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A7%AD+Current+Roadmap" />
-</div>
+## ◆ Roadmap
 
-<details>
-<summary><b>🔥 Development Journey — click to expand</b></summary>
-<br>
-
-- [x] Full-Stack Web Development (React + Symfony)
-- [x] Cinematic frontend motion (GSAP, Three.js, Lenis)
-- [x] Database design & normalization
-- [ ] IELTS certification
-- [ ] AWS / Azure / CCNA certifications
+- [x] Full-stack web development (React + Node.js, React + Symfony)
+- [x] Motion-first frontends (GSAP, Three.js, Lenis)
+- [x] Relational database design (23-table MySQL schema)
+- [x] Deployed a full-stack app with 35 end-to-end tests (Vercel · Render · Aiven)
+- [ ] TypeScript across my React projects
+- [ ] AWS Cloud Practitioner (CLF-C02)
+- [ ] AWS Solutions Architect Associate
+- [ ] IELTS
 - [ ] DevOps automation & Kubernetes
 
-</details>
-
-<details>
-<summary><b>📂 Development Principles</b></summary>
-<br>
-
-```text
-Clean Architecture
-      +
-Cinematic Interfaces
-      +
-Continuous Learning
-      =
-Software That Feels Like a Product
-```
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF00AA&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
+<br/>
 
+**Hiring for a remote frontend or React role? Let's talk.**
+
+<a href="mailto:hamzaouimoh54@gmail.com"><img src="https://img.shields.io/badge/Email_me-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0508?style=for-the-badge&logo=linkedin&logoColor=FF4FA3"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:6A00FF,100:00D4FF&section=footer&text=Build%20Create%20Innovate&fontSize=42&fontColor=FFFFFF"/>
-
-<a name="lets-connect"></a>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=FF00AA&center=true&vCenter=true&width=420&height=50&lines=%F0%9F%A4%9D+Let%27s+Connect" />
-
-<a href="https://www.linkedin.com/in/hmazaoui-mouhib/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hamzaouimoh54@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-hamzaouimoh54%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0A0508,55:5A1036,100:FF4FA3&text=Learn%20%C2%B7%20Build%20%C2%B7%20Ship&fontColor=FFFFFF&fontSize=30&fontAlignY=72&animation=twinkling" width="100%"/>
