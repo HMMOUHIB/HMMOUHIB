@@ -1,150 +1,84 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mouhib Hamzaoui — Frontend & Full-Stack Developer"/>
+<img src="assets/banner.svg" width="100%" alt="Mouhib Hamzaoui, Frontend Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=760&lines=I+build+React+interfaces+on+Node.js+APIs;CareerHive%3A+live+React+%2B+Express+platform%2C+35+tests;4th-year+engineering+student+%C2%B7+Cloud+%26+Infrastructure;Open+to+remote+junior+frontend+%2F+React+roles" alt="Typing intro"/>
+<a href="https://github.com/HMMOUHIB?tab=repositories"><img src="https://img.shields.io/github/stars/HMMOUHIB?affiliations=OWNER&style=for-the-badge&label=%E2%98%85%20STARS&labelColor=E60012&color=0B0B0B"/></a>
+<a href="https://github.com/HMMOUHIB?tab=followers"><img src="https://img.shields.io/github/followers/HMMOUHIB?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=E60012&color=0B0B0B"/></a>
+<img src="https://komarev.com/ghpvc/?username=HMMOUHIB&style=for-the-badge&label=PROFILE%20VIEWS&color=0B0B0B"/>
+
+</div>
 
 <br/>
 
-<a href="https://career-hive-ebon.vercel.app"><img src="https://img.shields.io/badge/Live_project-CareerHive-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=vercel&logoColor=FF4FA3"/></a>
-<a href="https://www.linkedin.com/in/hmazaoui-mouhib/"><img src="https://img.shields.io/badge/LinkedIn-Hamzaoui_Mouhib-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=linkedin&logoColor=FF4FA3"/></a>
-<a href="mailto:hamzaouimoh54@gmail.com"><img src="https://img.shields.io/badge/Email-hamzaouimoh54@gmail.com-FF4FA3?style=for-the-badge&labelColor=0A0508&logo=gmail&logoColor=FF4FA3"/></a>
-
-<img src="https://img.shields.io/badge/Status-Open_to_remote_frontend_roles-2EA44F?style=flat-square&labelColor=0A0508"/>
-<img src="https://img.shields.io/badge/Based_in-Ariana,_Tunisia_(UTC%2B1)-B9A3AF?style=flat-square&labelColor=0A0508"/>
-<img src="https://komarev.com/ghpvc/?username=HMMOUHIB&style=flat-square&color=FF4FA3&label=Profile+views"/>
-
+<div align="center">
+<img src="assets/sticker-who.svg" height="90" alt="Who am I?"/>
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="assets/emblem.svg" align="left" width="36%" alt="MH monogram"/>
 
-## ◆ About me
+I'm a **4th-year engineering student in Cloud & Infrastructure** at TEK-UP University, Tunisia, and a **frontend and full-stack developer** who builds with `React` and `Node.js`. I hold a Licence in Business Computing (`E-Business`) from ISAAS Sfax.
 
-```yaml
-name:            Mouhib Hamzaoui
-role:            Frontend & Full-Stack Developer
-studies:         4th-year engineering, Cloud & Infrastructure @ TEK-UP University, Tunisia
-previous_degree: Licence in Business Computing (E-Business), ISAAS Sfax
-languages:       English · French · Tunisian Darija
+I like interfaces that are **fast, responsive and polished**, sitting on back ends that are **secure and tested**. During my **2025 internship at Medianet** I built the first version of **CareerHive**, a career-growth platform, then rebuilt it end to end on `Express 5`: 13 screens, 70 API routes, OAuth sign-in, live notifications and 35 end-to-end tests.
 
-experience:
-  - Full-Stack Developer Intern @ Medianet (2025): built the first version of CareerHive
-  - Freelance Web Developer (2024 – present): websites and landing pages for clients
+Since **2024** I've also worked as a **freelance web developer**, taking client websites from first brief to launch. Right now I'm learning `TypeScript`, preparing for **AWS Cloud Practitioner**, and I'm **open to remote junior frontend and React roles**.
 
-looking_for:     Remote junior frontend / React roles
-learning_now:    TypeScript · AWS Cloud Practitioner → Solutions Architect Associate
-```
-
-I build web apps that are **solid underneath and polished on screen**: clean REST APIs, secure sign-in and tested code on the back end; fast, responsive and motion-aware interfaces on the front end.
-
-<img src="assets/divider.svg" width="100%"/>
-
-## ◆ Tech stack
+<br clear="left"/>
 
 <div align="center">
 
-**Frontend & motion**<br/>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind,threejs,flutter&theme=dark"/>
+**You can click here**
 
-**Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,java,spring,python&theme=dark"/>
-
-**Data, cloud & tools**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,aws,linux,git,github,vercel,vscode,figma&theme=dark"/>
-
-**Design & creative**<br/>
-<img src="https://img.shields.io/badge/GSAP-0A0508?style=for-the-badge&logo=greensock&logoColor=FF4FA3"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0A0508?style=for-the-badge&logo=framer&logoColor=FF4FA3"/>
-<img src="https://img.shields.io/badge/After_Effects-0A0508?style=for-the-badge&logo=adobeaftereffects&logoColor=FF4FA3"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-0A0508?style=for-the-badge&logo=adobepremierepro&logoColor=FF4FA3"/>
+<a href="https://career-hive-ebon.vercel.app"><img src="https://img.shields.io/badge/LIVE%20PROJECT-E60012?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hmazaoui-mouhib/"><img src="https://img.shields.io/badge/LINKEDIN-E60012?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamzaouimoh54@gmail.com"><img src="https://img.shields.io/badge/GMAIL-E60012?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/HMMOUHIB/Career_Hive/blob/main/presentation/pdf/CareerHive-Project-Book.pdf"><img src="https://img.shields.io/badge/PROJECT%20BOOK-0B0B0B?style=for-the-badge&logo=readthedocs&logoColor=E60012"/></a>
 
 </div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## ◆ Featured projects
-
-### 🐝 CareerHive · career-growth platform
-
-<a href="https://career-hive-ebon.vercel.app"><img src="https://img.shields.io/badge/Live_app-FF4FA3?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/HMMOUHIB/Career_Hive"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
-<a href="https://github.com/HMMOUHIB/Career_Hive/blob/main/presentation/pdf/CareerHive-Project-Book.pdf"><img src="https://img.shields.io/badge/Project_book_(PDF)-0A0508?style=flat-square&logo=readthedocs&logoColor=FF4FA3"/></a>
-
-Employees follow trainings, collect certificates and request promotions; HR reviews each request, then the manager decides. Started during my 2025 internship at Medianet (React + Symfony), then rebuilt end to end on Node.js.
-
-<a href="https://career-hive-ebon.vercel.app"><img src="https://raw.githubusercontent.com/HMMOUHIB/Career_Hive/main/presentation/assets/screenshots/org-panel.jpg" width="100%" alt="CareerHive organisation dashboard"/></a>
-
-`React 19` `Vite` `Node.js` `Express 5` `MySQL` `Three.js`
-
-- **13 screens · 70 API routes · 23 tables**, with a Context + reducer store that refreshes on server events
-- **Secure accounts:** JWT sessions, Google / LinkedIn / GitHub OAuth, bcrypt, rate-limited sign-in
-- **Live notifications** over Server-Sent Events, with a polling fallback
-- **35 end-to-end API tests**; deployed on Vercel, Render and Aiven MySQL
-
----
-
-### 🛍️ Aura Store · fashion e-commerce platform
-
-<a href="https://github.com/HMMOUHIB/Aura-Store"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
-
-A full-stack online fashion store with a cinematic homepage, product catalog and search, email-verified sign-up, an admin dashboard and an AI-assisted shopping chatbot.
-
-`PHP` `JavaScript` `MySQL` `HTML` `CSS`
-
----
-
-### 🎬 Personal portfolio · motion-first website
-
-<a href="https://github.com/HMMOUHIB/HM-PORTFOLIO"><img src="https://img.shields.io/badge/Code-0A0508?style=flat-square&logo=github&logoColor=FF4FA3"/></a>
-
-A cinematic portfolio with a Three.js particle hero, an orbital skills map, scramble-text and parallax effects, told through GSAP ScrollTrigger sections.
-
-`React` `Three.js` `GSAP` `Lenis`
-
----
-
-### 🎮 Nexos Game Shop · game marketplace
-
-A gaming marketplace with a Spring Boot REST backend and neon cyberpunk sign-in screens.
-
-`Java 21` `Spring Boot` `MySQL` `REST API`
-
-<img src="assets/divider.svg" width="100%"/>
-
-## ◆ GitHub activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HMMOUHIB&background=0A0508&border=3A1A2B&stroke=3A1A2B&ring=FF4FA3&fire=FF4FA3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8FCB&sideLabels=FF8FCB&dates=B9A3AF" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HMMOUHIB&theme=radical" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HMMOUHIB&bg_color=0A0508&color=FFB3D9&line=FF4FA3&point=FFFFFF&area=true&area_color=FF4FA3&hide_border=true&title_color=FF4FA3" width="100%"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## ◆ Roadmap
-
-- [x] Full-stack web development (React + Node.js, React + Symfony)
-- [x] Motion-first frontends (GSAP, Three.js, Lenis)
-- [x] Relational database design (23-table MySQL schema)
-- [x] Deployed a full-stack app with 35 end-to-end tests (Vercel · Render · Aiven)
-- [ ] TypeScript across my React projects
-- [ ] AWS Cloud Practitioner (CLF-C02)
-- [ ] AWS Solutions Architect Associate
-- [ ] IELTS
-- [ ] DevOps automation & Kubernetes
-
-<div align="center">
 
 <br/>
 
-**Hiring for a remote frontend or React role? Let's talk.**
+> [!CAUTION]
+> Every project here is live, tested and documented.
+>
+> Open the app, read the code, break something. That's how it gets better.
 
-<a href="mailto:hamzaouimoh54@gmail.com"><img src="https://img.shields.io/badge/Email_me-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hmazaoui-mouhib/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0508?style=for-the-badge&logo=linkedin&logoColor=FF4FA3"/></a>
+<br/>
+
+<div align="center">
+
+<img src="assets/sticker-contrib.svg" height="90" alt="My contributions"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HMMOUHIB&custom_title=My%20Contributions&bg_color=0B0B0B&color=FFFFFF&title_color=FFFFFF&line=E60012&point=FFFFFF&area=true&area_color=E60012&hide_border=false&border_color=E60012" width="100%" alt="Contribution graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0A0508,55:5A1036,100:FF4FA3&text=Learn%20%C2%B7%20Build%20%C2%B7%20Ship&fontColor=FFFFFF&fontSize=30&fontAlignY=72&animation=twinkling" width="100%"/>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/sticker-stack.svg" height="80" alt="My tech stack"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,threejs,flutter,nodejs,express,php,symfony,java,spring,python,mysql,aws,linux,git,github,vercel,figma,vscode&perline=6&theme=dark" alt="Tech stack"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/HMMOUHIB/Career_Hive"><img src="assets/card-careerhive.svg" width="100%" alt="CareerHive repository"/></a>
+
+<img src="https://streak-stats.demolab.com?user=HMMOUHIB&background=0B0B0B&border=E60012&stroke=E60012&ring=E60012&fire=E60012&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E60012&sideLabels=E60012&dates=AAAAAA" width="100%" alt="GitHub streak"/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- **[Aura Store](https://github.com/HMMOUHIB/Aura-Store):** fashion e-commerce with catalog and search, email-verified sign-up, an admin dashboard and an AI-assisted chatbot. `PHP` `JavaScript` `MySQL`
+- **[Personal portfolio](https://github.com/HMMOUHIB/HM-PORTFOLIO):** motion-first site with a Three.js particle hero and GSAP ScrollTrigger sections. `React` `Three.js` `GSAP`
+- **Nexos Game Shop:** game marketplace with a Spring Boot REST backend. `Java 21` `Spring Boot` `MySQL`
+
+</details>
