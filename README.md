@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Mouhib Hamzaoui, Frontend Developer"/>
+<img src="assets/banner.svg" width="100%" alt="Mouhib Hamzaoui, Cloud and Full-Stack Engineer"/>
 
 <a href="https://github.com/HMMOUHIB?tab=repositories"><img src="https://img.shields.io/github/stars/HMMOUHIB?affiliations=OWNER&style=for-the-badge&label=%E2%98%85%20STARS&labelColor=E60012&color=0B0B0B"/></a>
 <a href="https://github.com/HMMOUHIB?tab=followers"><img src="https://img.shields.io/github/followers/HMMOUHIB?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=E60012&color=0B0B0B"/></a>
@@ -16,11 +16,11 @@
 
 <img src="assets/emblem.svg" align="left" width="36%" alt="MH monogram"/>
 
-I'm a **4th-year engineering student in Cloud & Infrastructure** at TEK-UP University, Tunisia, and a **frontend and full-stack developer** who builds with `React` and `Node.js`. I hold a Licence in Business Computing (`E-Business`) from ISAAS Sfax.
+I'm a **4th-year engineering student specializing in Cloud & Infrastructure** at TEK-UP University, Tunisia, and a **full-stack developer** who builds with `React` and `Node.js` and takes apps all the way to production. I hold a Licence in Business Computing (`E-Business`) from ISAAS Sfax.
 
-I like interfaces that are **fast, responsive and polished**, sitting on back ends that are **secure and tested**. During my **2025 internship at Medianet** I built the first version of **CareerHive**, a career-growth platform, then rebuilt it end to end on `Express 5`: 13 screens, 70 API routes, OAuth sign-in, live notifications and 35 end-to-end tests.
+I like apps that are **polished on the front**, **secure and tested on the back**, and **properly deployed**. During my **2025 internship at Medianet** I built the first version of **CareerHive**, a career-growth platform, then rebuilt it end to end on `Express 5` and shipped it across `Vercel`, `Render` and `Aiven MySQL`: 13 screens, 70 API routes, OAuth sign-in, live notifications and 35 end-to-end tests.
 
-Since **2024** I've also worked as a **freelance web developer**, taking client websites from first brief to launch. Right now I'm learning `TypeScript`, preparing for **AWS Cloud Practitioner**, and I'm **open to remote junior frontend and React roles**.
+Since **2024** I've also worked as a **freelance web developer**, taking client websites from first brief to launch. Right now I'm doing hands-on `AWS` labs, preparing for **AWS Cloud Practitioner** and learning `TypeScript`. I'm **open to remote cloud, full-stack and React roles**.
 
 <br clear="left"/>
 
@@ -60,7 +60,7 @@ Since **2024** I've also worked as a **freelance web developer**, taking client 
 
 <img src="assets/sticker-stack.svg" height="80" alt="My tech stack"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,threejs,flutter,nodejs,express,php,symfony,java,spring,python,mysql,aws,linux,git,github,vercel,figma,vscode&perline=6&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vercel,nodejs,express,react,js,html,css,vite,tailwind,threejs,flutter,php,symfony,java,spring,python,mysql,figma,vscode&perline=6&theme=dark" alt="Tech stack"/>
 
 </td>
 <td width="50%" valign="top" align="center">
