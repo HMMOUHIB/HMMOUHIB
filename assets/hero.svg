@@ -42,21 +42,20 @@
       .ring { transform-origin: 600px 190px; animation: spin 38s linear infinite; }
       .ring2 { transform-origin: 600px 190px; animation: spin 26s linear infinite reverse; }
       @keyframes spin { to { transform: rotate(360deg); } }
-      .slash { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s cubic-bezier(.6,0,.2,1) infinite; }
-      .slash2 { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s cubic-bezier(.6,0,.2,1) 3s infinite; }
-      @keyframes draw { 0% { stroke-dashoffset: 1400; opacity: 0; } 15% { opacity: 1; } 45% { stroke-dashoffset: 0; opacity: 1; } 70%,100% { stroke-dashoffset: 0; opacity: 0; } }
+      .slash, .slash2 { stroke-dasharray: 1400; stroke-dashoffset: 0; }
+      .slash { animation: draw 6s cubic-bezier(.6,0,.2,1) infinite; }
+      .slash2 { animation: draw 6s cubic-bezier(.6,0,.2,1) -3s infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 1400; opacity: .2; } 45% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: .35; } }
       .sweep { animation: sweep 5s ease-in-out infinite; }
       @keyframes sweep { 0% { transform: translateX(-900px); } 55%,100% { transform: translateX(900px); } }
-      .rise { animation: rise var(--d) linear infinite; animation-delay: var(--s); }
-      @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: .9; } 100% { transform: translateY(-260px); opacity: 0; } }
-      .fade { opacity: 0; animation: fadein 1.2s ease-out forwards; animation-delay: var(--s); }
-      @keyframes fadein { to { opacity: 1; } }
+      .rise { opacity: .6; animation: rise var(--d, 8s) linear infinite; animation-delay: var(--s, 0s); }
+      @keyframes rise { 0% { transform: translateY(0); opacity: .1; } 15% { opacity: .9; } 100% { transform: translateY(-260px); opacity: .05; } }
+      .fade { animation: glowpulse 5s ease-in-out infinite; }
+      @keyframes glowpulse { 0%,100% { opacity: 1; } 50% { opacity: .82; } }
       .blink { animation: blink 1.6s steps(1) infinite; }
       @keyframes blink { 50% { opacity: 0; } }
       @media (prefers-reduced-motion: reduce) {
         .pulse, .ring, .ring2, .sweep, .rise, .slash, .slash2, .blink { animation: none; }
-        .slash, .slash2 { stroke-dashoffset: 0; opacity: .6; }
-        .fade { animation: none; opacity: 1; }
       }
     </style>
   </defs>
@@ -109,6 +108,6 @@
     <rect class="sweep" x="150" y="120" width="220" height="100" fill="url(#shine)" opacity="0.55"/>
   </g>
   <rect class="fade" style="--s:.9s" x="470" y="222" width="260" height="2" fill="url(#blade)"/>
-  <text class="fade" style="--s:1.1s" x="600" y="262" text-anchor="middle" font-size="25" font-weight="600" fill="#F5E6EE">Frontend &amp; Full-Stack Developer<tspan fill="#FF4FA3" class="blink"> _</tspan></text>
+  <text class="fade" style="--s:1.1s" x="600" y="262" text-anchor="middle" font-size="25" font-weight="600" fill="#F5E6EE">Frontend &amp; Full-Stack Developer<tspan fill="#FF4FA3"> _</tspan></text>
   <text class="fade" style="--s:1.4s" x="600" y="298" text-anchor="middle" font-size="16" letter-spacing="2" fill="#B9A3AF">REACT  ·  NODE.JS  ·  JAVASCRIPT  ·  REST APIs  ·  CLOUD &amp; INFRASTRUCTURE @ TEK-UP</text>
 </svg>
