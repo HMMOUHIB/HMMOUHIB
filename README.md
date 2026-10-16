@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Cinematic+Web+Experiences+%F0%9F%8E%AC;React+%7C+Symfony+%7C+PHP+%7C+MySQL+%7C+Three.js;First-Year+Engineering+Student+%40+TEK-UP;Turning+Anime+Aesthetics+Into+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Frontend+%26+Full-Stack+Developer+%E2%9A%9B%EF%B8%8F;React+%7C+Node.js+%7C+JavaScript+%7C+MySQL+%7C+Three.js;4th-Year+Engineering+Student+%40+TEK-UP;Open+to+Remote+Frontend+Roles" />
 
 <br>
 
@@ -19,6 +19,10 @@
 <a href="https://github.com/HMMOUHIB">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open_to-Remote_Frontend_%2F_React_Roles-2EA44F?style=for-the-badge"/>
 
 <br><br>
 
@@ -43,15 +47,20 @@
 
 ```yaml
 name: Hamzaoui Mouhib
-role: First-Year Engineering Student
+role: Frontend & Full-Stack Developer · 4th-Year Engineering Student
 university: TEK-UP University, Tunisia
-specialization: Information Systems & eBusiness
-location: Tunis, Tunisia
+specialization: Cloud & Infrastructure
+previous_degree: Licence in Business Computing (E-Business), ISAAS Sfax
+location: Ariana, Tunisia (remote, UTC+1)
 languages: French · English · Tunisian Darija
 
+experience:
+  - Full-Stack Developer Intern @ Medianet (2025) — built the first version of CareerHive
+  - Freelance Web Developer (2024 – present)
+
 currently:
-  - Building foundational engineering & software skills @ TEK-UP
-  - Building certification roadmap: AWS · Azure · CCNA
+  - Open to remote junior frontend / React roles
+  - Certification path: AWS Cloud Practitioner → AWS Solutions Architect Associate
   - Preparing IELTS for international mobility
 
 design_philosophy:
@@ -112,14 +121,16 @@ I build applications that combine **engineering rigor** with **cinematic design*
 ## 🐝 Career Hive
 
 <div align="center">
-<img src="https://img.shields.io/badge/Academic_Project-Gestion_de_Carri%C3%A8re-6A00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Career_Growth_Platform-6A00FF?style=for-the-badge"/>
 </div>
 
-A career management ("gestion de carrière") platform connecting profiles, skills, and opportunities.
+A career-growth platform where employees follow trainings, collect certificates and request promotions, and HR and managers decide in one two-stage review flow. Started during my 2025 internship at Medianet (React + Symfony), then rebuilt end to end on Node.js.
 
-**Stack:** `React.js` `Symfony` `MySQL`
+**Stack:** `React 19` `Vite` `Node.js` `Express 5` `MySQL` `Three.js`
 
-✅ Profile & skills management &nbsp; ✅ Career data organization &nbsp; ✅ Responsive dashboard &nbsp; ✅ Modern REST-driven architecture
+✅ 13 screens · 70 API routes · 23 tables &nbsp; ✅ JWT + Google / LinkedIn / GitHub OAuth &nbsp; ✅ Live notifications (Server-Sent Events) &nbsp; ✅ 35 end-to-end tests &nbsp; ✅ 3 themes, responsive
+
+🔗 **[Live app](https://career-hive-ebon.vercel.app)** · **[Code](https://github.com/HMMOUHIB/Career_Hive)**
 
 ---
 
@@ -135,6 +146,8 @@ A premium full-stack e-commerce platform with a cinematic homepage and admin das
 
 🛒 Product catalog & search &nbsp; 🔐 Auth & email verification &nbsp; 🤖 Zara-style luxury chatbot UI &nbsp; 📊 Admin dashboard
 
+🔗 **[Code](https://github.com/HMMOUHIB/Aura-Store)**
+
 ---
 
 ## 🎬 Personal Portfolio
@@ -149,17 +162,19 @@ A cinematic personal portfolio with an anime-driven visual identity (Bleach / To
 
 ✨ Three.js particle hero &nbsp; ✨ Orbital skills map &nbsp; ✨ Scramble-text & parallax effects &nbsp; ✨ Custom SVG character illustration
 
+🔗 **[Code](https://github.com/HMMOUHIB/HM-PORTFOLIO)**
+
 ---
 
-## 🎮 Gameshop
+## 🎮 Nexos Game Shop
 
 <div align="center">
 <img src="https://img.shields.io/badge/Cyberpunk_UI-Game_Marketplace-6A00FF?style=for-the-badge"/>
 </div>
 
-A gaming marketplace backend with cyberpunk-themed login/signup pages.
+A gaming marketplace with a Spring Boot REST backend and cyberpunk-themed login/signup pages.
 
-**Stack:** `Java`
+**Stack:** `Java 21` `Spring Boot` `MySQL` `REST API`
 
 🎮 Game browsing & listings &nbsp; 🔐 Secure auth flow &nbsp; 🌆 Neon cyberpunk visual identity
 
@@ -191,11 +206,14 @@ A gaming marketplace backend with cyberpunk-themed login/signup pages.
 <summary><b>🔥 Development Journey — click to expand</b></summary>
 <br>
 
-- [x] Full-Stack Web Development (React + Symfony)
+- [x] Full-Stack Web Development (React + Node.js, React + Symfony)
 - [x] Cinematic frontend motion (GSAP, Three.js, Lenis)
 - [x] Database design & normalization
+- [x] Deployed a full-stack app (Vercel · Render · Aiven MySQL) with 35 end-to-end tests
+- [ ] TypeScript across my React projects
+- [ ] AWS Cloud Practitioner (CLF-C02)
+- [ ] AWS Solutions Architect Associate
 - [ ] IELTS certification
-- [ ] AWS / Azure / CCNA certifications
 - [ ] DevOps automation & Kubernetes
 
 </details>
