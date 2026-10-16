@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+  <title id="t">Mouhib Hamzaoui</title>
+  <desc id="d">Frontend and Full-Stack Developer. React, Node.js, JavaScript. Fourth-year engineering student, Cloud and Infrastructure, TEK-UP.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050305"/>
+      <stop offset="0.55" stop-color="#12060D"/>
+      <stop offset="1" stop-color="#1E0816"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF4FA3" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#C2185B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#C2185B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFE3F1"/>
+      <stop offset="0.5" stop-color="#FF7AC0"/>
+      <stop offset="1" stop-color="#FFE3F1"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="blade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4FA3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF8FCB"/>
+      <stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.2"/></filter>
+    <clipPath id="nameClip">
+      <text x="600" y="196" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="7">MOUHIB HAMZAOUI</text>
+    </clipPath>
+    <style>
+      text { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .pulse { animation: pulse 4.5s ease-in-out infinite; transform-origin: 600px 190px; }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+      .ring { transform-origin: 600px 190px; animation: spin 38s linear infinite; }
+      .ring2 { transform-origin: 600px 190px; animation: spin 26s linear infinite reverse; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .slash { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s cubic-bezier(.6,0,.2,1) infinite; }
+      .slash2 { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s cubic-bezier(.6,0,.2,1) 3s infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 1400; opacity: 0; } 15% { opacity: 1; } 45% { stroke-dashoffset: 0; opacity: 1; } 70%,100% { stroke-dashoffset: 0; opacity: 0; } }
+      .sweep { animation: sweep 5s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-900px); } 55%,100% { transform: translateX(900px); } }
+      .rise { animation: rise var(--d) linear infinite; animation-delay: var(--s); }
+      @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: .9; } 100% { transform: translateY(-260px); opacity: 0; } }
+      .fade { opacity: 0; animation: fadein 1.2s ease-out forwards; animation-delay: var(--s); }
+      @keyframes fadein { to { opacity: 1; } }
+      .blink { animation: blink 1.6s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .pulse, .ring, .ring2, .sweep, .rise, .slash, .slash2, .blink { animation: none; }
+        .slash, .slash2 { stroke-dashoffset: 0; opacity: .6; }
+        .fade { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <!-- faint grid -->
+  <g stroke="#FF4FA3" stroke-opacity="0.05">
+    <path d="M0 95H1200M0 190H1200M0 285H1200M150 0V380M300 0V380M450 0V380M600 0V380M750 0V380M900 0V380M1050 0V380"/>
+  </g>
+
+  <!-- aura -->
+  <ellipse class="pulse" cx="600" cy="190" rx="430" ry="190" fill="url(#aura)"/>
+
+  <!-- rotating sigil rings -->
+  <g class="ring" fill="none" stroke="#FF4FA3" stroke-opacity="0.28">
+    <circle cx="600" cy="190" r="168" stroke-dasharray="2 14"/>
+    <circle cx="600" cy="190" r="182" stroke-dasharray="60 30 6 30" stroke-width="1.5"/>
+  </g>
+  <g class="ring2" fill="none" stroke="#FFB3D9" stroke-opacity="0.2">
+    <circle cx="600" cy="190" r="150" stroke-dasharray="1 8"/>
+    <path d="M600 22 L606 34 L594 34 Z M600 358 L606 346 L594 346 Z M432 190 L444 184 L444 196 Z M768 190 L756 184 L756 196 Z" fill="#FF4FA3" fill-opacity="0.5" stroke="none"/>
+  </g>
+
+  <!-- energy slashes -->
+  <path class="slash" d="M120 320 C 380 90, 820 60, 1090 150" fill="none" stroke="url(#blade)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  <path class="slash2" d="M90 120 C 360 300, 840 320, 1110 250" fill="none" stroke="url(#blade)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+
+  <!-- rising energy particles -->
+  <g fill="#FF8FCB" filter="url(#soft)">
+    <circle class="rise" style="--d:7s;--s:0s" cx="140" cy="370" r="3"/>
+    <circle class="rise" style="--d:9s;--s:1.2s" cx="230" cy="380" r="2"/>
+    <circle class="rise" style="--d:6s;--s:2.4s" cx="330" cy="370" r="2.5"/>
+    <circle class="rise" style="--d:8s;--s:.6s" cx="420" cy="385" r="1.8"/>
+    <circle class="rise" style="--d:10s;--s:3s" cx="510" cy="375" r="2.2"/>
+    <circle class="rise" style="--d:7.5s;--s:4.1s" cx="690" cy="380" r="2.6"/>
+    <circle class="rise" style="--d:9.5s;--s:1.8s" cx="780" cy="372" r="2"/>
+    <circle class="rise" style="--d:6.5s;--s:.3s" cx="870" cy="384" r="3"/>
+    <circle class="rise" style="--d:8.5s;--s:2.9s" cx="960" cy="376" r="1.8"/>
+    <circle class="rise" style="--d:7s;--s:3.7s" cx="1050" cy="380" r="2.4"/>
+    <circle class="rise" style="--d:11s;--s:5s" cx="1120" cy="370" r="2"/>
+    <circle class="rise" style="--d:9s;--s:4.6s" cx="60" cy="378" r="2.2"/>
+  </g>
+
+  <!-- text -->
+  <text class="fade" style="--s:.2s" x="600" y="112" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="9" fill="#FFB3D9">HELLO, I'M</text>
+  <g class="fade" style="--s:.5s">
+    <text x="600" y="196" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="7" fill="url(#name)" filter="url(#glow)">MOUHIB HAMZAOUI</text>
+  </g>
+  <g clip-path="url(#nameClip)">
+    <rect class="sweep" x="150" y="120" width="220" height="100" fill="url(#shine)" opacity="0.55"/>
+  </g>
+  <rect class="fade" style="--s:.9s" x="470" y="222" width="260" height="2" fill="url(#blade)"/>
+  <text class="fade" style="--s:1.1s" x="600" y="262" text-anchor="middle" font-size="25" font-weight="600" fill="#F5E6EE">Frontend &amp; Full-Stack Developer<tspan fill="#FF4FA3" class="blink"> _</tspan></text>
+  <text class="fade" style="--s:1.4s" x="600" y="298" text-anchor="middle" font-size="16" letter-spacing="2" fill="#B9A3AF">REACT  ·  NODE.JS  ·  JAVASCRIPT  ·  REST APIs  ·  CLOUD &amp; INFRASTRUCTURE @ TEK-UP</text>
+</svg>

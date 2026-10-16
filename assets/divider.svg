@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF4FA3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF4FA3" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFD1E8"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+    <style>
+      .run { animation: run 4s ease-in-out infinite; }
+      @keyframes run { 0% { transform: translateX(-260px); } 100% { transform: translateX(1200px); } }
+      .gem { transform-origin: 600px 14px; animation: turn 6s linear infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .run, .gem { animation: none; } }
+    </style>
+  </defs>
+  <rect x="0" y="13" width="1200" height="2" fill="url(#l)"/>
+  <rect class="run" x="0" y="11" width="240" height="6" rx="3" fill="url(#spark)" filter="url(#g)"/>
+  <g class="gem"><path d="M600 4 L610 14 L600 24 L590 14 Z" fill="#0A0508" stroke="#FF4FA3" stroke-width="1.5"/></g>
+  <circle cx="600" cy="14" r="2.5" fill="#FF8FCB"/>
+</svg>
