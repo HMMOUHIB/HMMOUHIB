@@ -77,7 +77,7 @@ Since **2024** I've also worked as a **freelance web developer**, taking client 
 <summary><b>More projects</b></summary>
 <br/>
 
-- **[Aura Store](https://github.com/HMMOUHIB/Aura-Store):** fashion e-commerce with catalog and search, email-verified sign-up, an admin dashboard and an AI-assisted chatbot. `PHP` `JavaScript` `MySQL`
+- **[Aura Store](https://github.com/HMMOUHIB/Aura-Store):** streetwear store plus an admin Command Center, with email-verified accounts, server-priced checkout, live analytics and an AI assistant; runs in Docker. `React 18` `PHP 8` `MariaDB` `FastAPI`
 - **[Personal portfolio](https://github.com/HMMOUHIB/HM-PORTFOLIO):** motion-first site with a Three.js particle hero and GSAP ScrollTrigger sections. `React` `Three.js` `GSAP`
 - **Nexos Game Shop:** game marketplace with a Spring Boot REST backend. `Java 21` `Spring Boot` `MySQL`
 
